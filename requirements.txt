@@ -1,0 +1,11 @@
+Cython==0.24.1
+argparse==1.2.1
+nltk==3.2.1
+numpy==1.11.1
+python-crfsuite==0.8.4
+six==1.10.0
+sklearn==0.0
+sklearn-crfsuite==0.3.3
+tabulate==0.7.5
+tqdm==4.8.4
+wsgiref==0.1.2

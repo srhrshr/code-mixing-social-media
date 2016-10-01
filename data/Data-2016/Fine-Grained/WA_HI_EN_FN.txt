@@ -1,0 +1,3981 @@
+Happy	en	JJ
+birthday	en	N_NN
+di	hi	V_VAUX
+..	univ	RD_SYM
+
+Live	en	V_VM
+long	en	JJ
+!	univ	RD_SYM
+Ding	en	N_NNP
+dong	en	V_VM
+
+Thnk	hi	V_VM
+u	hi	PR_PRP
+akki	hi	N_NNP
+
+are	hi	V_VM
+..	univ	RD_SYM
+
+Jage	en	N_NN
+hue	hi	JJ
+ho	hi	V_VM
+
+So	hi	PSP
+gyi	hi	N_NN
+thi	hi	V_VM
+
+Abi	hi	N_NNP
+uthi	hi	N_NN
+
+Bahut	hi	N_NNP
+sahi	hi	N_NN
+
+Kai's	hi	N_NNP
+ho	hi	V_VM
+?	univ	RD_SYM
+
+Mai	hi	N_NNP
+achhi	hi	JJ
+
+Tu	hi	#
+sunnna	hi	N_NNP
+
+Bas	hi	RD_RDF
+didi	hi	N_NN
+sab	hi	QT_QTF
+thk	hi	RD_RDF
+
+Haan	hi	U
+
+Agye	hi	JJ
+tum	hi	RD_RDF
+log	hi	N_NN
+chennai	ne	N_NN
+se	hi	PSP
+??	univ	RD_SYM
+
+Nahi	hi	N_NNP
+didi	hi	N_NN
+wo	hi	V_VM
+log	hi	N_NN
+nahi	hi	N_NN
+aaye	hi	N_NN
+
+Abhi	hi	N_NNP
+tak	hi	RD_RDF
+
+Tu	hi	RD_RDF
+ni	hi	RP_RPD
+gya	hi	N_NN
+??	univ	RD_SYM
+
+Nai	hi	DM_DMD
+di	hi	V_VAUX
+..	univ	RD_SYM
+
+Mandir	ne	N_NNP
+gaya	hi	N_NN
+tha	hi	RD_RDF
+main	hi	N_NNP
+..	univ	RD_SYM
+Okkk	hi	U
+
+Or	hi	RD_RDF
+bdday	en	N_NN
+kaisa	hi	N_NNP
+raha	hi	N_NNP
+di	hi	V_VAUX
+?	univ	RD_SYM
+
+Ofc	hi	V_VM
+me	hi	PR_PRP
+thi	hi	V_VM
+
+Ghr	hi	N_NNP
+aayi	hi	N_NN
+jldi	hi	N_NN
+but	en	CC
+whi	hi	PR_PRP
+ghr	hi	N_NN
+pe	hi	PSP
+hun	hi	V_VM
+
+Are	hi	V_VM
+..	univ	RD_SYM
+
+To	hi	PSP
+budday	en	V_VM
+gifts	hi	N_NN
+to	hi	PSP
+mil	hi	N_NNP
+Hi	hi	N_NN
+gaye	hi	N_NN
+na	hi	RP_RPD
+aapke	hi	N_NN
+...	univ	RD_SYM
+🤗	hi	RD_SYM
+lill	en	V_VM
+bro	en	V_VM
+wale	hi	N_NN
+
+Haan	hi	U
+
+Mera	hi	N_NNP
+bhai😘😘	hi	N_NN
+
+Di	hi	N_NNP
+namaskaramm	hi	V_VM
+
+Namashkar	hi	N_NNP
+akki	hi	N_NN
+
+Kaisa	hi	N_NNP
+hain	hi	V_VM
+??	univ	RD_SYM
+
+Mast	hi	JJ
+hun	hi	V_VM
+di	hi	V_VM
+
+Ghar	hi	RD_RDF
+aaya	hi	N_NNP
+hu	hi	V_VM
+...	univ	RD_SYM
+
+Abhi	hi	N_NNP
+abhi	hi	N_NN
+nizamuddin	hi	PR_PRF
+pahucha	hi	N_NN
+
+Ghar	hi	N_NNP
+ja	hi	N_NNP
+ra	hi	PSP
+hu	hi	V_VM
+ab	hi	PSP
+bus	en	N_NN
+em	hi	DM_DMD
+
+Me	hi	PR_PRP
+
+Haan	hi	U
+
+Bhai	hi	N_NN
+ne	hi	PSP
+btaya	hi	N_NNP
+
+Mera	hi	N_NNP
+bhai	hi	N_NN
+bhi	hi	N_NN
+aa	hi	PSP
+jata	hi	N_NN
+
+Are	hi	V_VM
+bohot	hi	N_NNP
+bola	hi	N_NNP
+mene	hi	V_VM
+di	hi	V_VAUX
+usko	hi	PR_PRP
+ki	hi	PR_PRQ
+chal	hi	JJ
+.	univ	RD_SYM
+Ek	hi	RD_RDF
+Hi	hi	N_NN
+tiket	ne	V_VM
+me	hi	PR_PRP
+ho	hi	V_VM
+jyga	hi	N_NN
+kam	hi	RD_RDF
+bhi	hi	N_NN
+..	univ	RD_SYM
+Bolta	hi	N_NNP
+ke	hi	PR_PRQ
+project	en	V_VM
+karega	hi	N_NNP
+..	univ	RD_PUNC
+
+Whi	hi	$
+na	hi	RP_RPD
+
+Maine	hi	N_NNP
+bi	hi	N_NNP
+bola	hi	N_NNP
+
+Han	hi	V_VM
+woi	hi	PR_PRP
+to	hi	RP_RPD
+..	univ	RD_SYM
+
+May	hi	V_VM
+this	en	DT
+season	en	N_NN
+of	hi	PSP
+color	hi	N_NN
+bring	en	V_VM
+you	en	PR_PRP
+cheer	en	JJ
+and	en	CC
+happiness	en	V_VM
+.	univ	RD_SYM
+May	hi	V_VM
+the	en	DT
+colors	hi	N_NN
+of	hi	PSP
+the	en	DT
+Holi	hi	N_NN
+continues	en	N_NN
+to	hi	PSP
+illuminate	en	V_VM
+your	en	DT
+life	ne	N_NN
+and	en	CC
+
+guide	en	N_NN
+you	en	PR_PRP
+towards	hi	V_VM
+the	en	DT
+path	univ	N_NN
+of	hi	PSP
+success	en	N_NN
+.	univ	RD_PUNC
+Happy	en	JJ
+Holi	hi	N_NN
+!	univ	RD_SYM
+😊😊😊	hi	E
+
+kamine	hi	N_NN
+
+Hi	hi	RP_INJ
+Di	hi	N_NN
+..	univ	RD_SYM
+
+Namaskaar	hi	RP_INJ
+
+💣💣💣💣💣	hi	RD_SYM
+
+😡😡😡😡😡😡	hi	E
+
+baat	hi	N_NN
+na	hi	RP_RPD
+kr	hi	RD_PUNC
+smjha	ne	N_NN
+
+🤑🤑🤑	hi	RD_SYM
+
+Ye	hi	PR_PRP
+kya	hi	JJ
+bomb	hi	N_NNP
+dikha	hi	V_VM
+Rahe	hi	N_NNP
+ho	hi	V_VM
+
+tujhe	hi	N_NN
+udane	univ	N_NN
+k	hi	RD_PUNC
+liye	hi	PSP
+
+Are	hi	V_VM
+mera	hi	N_NNP
+baby	hi	N_NN
+naraj	hi	N_NNP
+hogya	hi	N_NNP
+
+😛	hi	E
+
+😘😘😘	hi	E
+
+baby	hi	N_NN
+???	univ	RD_PUNC
+
+itne	hi	N_NN
+chaate	hi	V_VM
+khayega	hi	N_NN
+pdai	hi	N_NN
+bhul	hi	N_NNP
+jyega	hi	N_NNP
+
+Ye	hi	PR_PRP
+bomb	hi	N_NNP
+mere	hi	V_VM
+bombs💨	hi	N_NN
+ke	hi	PR_PRQ
+aage	en	N_NN
+Kuch	hi	RD_RDF
+nai	hi	$
+hain😝😝	hi	V_VM
+
+😡😡😳😳😡😡	hi	RD_E
+
+acha	hi	JJ
+g	hi	N_NN
+
+Kahe	hi	N_NN
+ke	hi	PR_PRQ
+chaate	hi	V_VM
+?	univ	RD_SYM
+
+or	hi	CC
+btaaa	univ	N_NN
+kaisa	hi	N_NN
+h	hi	RD_PUNC
+?????	univ	RD_SYM
+
+Mastttt	hi	U
+
+pdai	hi	N_NN
+kaisi	hi	N_NNP
+chl	hi	N_NNP
+rhi	hi	N_NNP
+h	hi	RD_PUNC
+
+Kyu	hi	RD_RDF
+gf	hi	N_NN
+bi	hi	N_NN
+baby	hi	N_NN
+hoti	hi	V_VM
+h	hi	RD_PUNC
+kya	hi	N_NNP
+
+Behen	hi	N_NNP
+Ni	hi	DM_DMD
+hoti	hi	V_VM
+kya	hi	JJ
+
+Padhai	hi	N_NNP
+hi	hi	RP_INJ
+to	hi	PSP
+chalti	hi	V_VM
+hai	hi	V_VAUX
+
+glti	hi	N_NN
+se	hi	PR_PRP
+di	hi	V_VM
+ko	hi	PSP
+b	hi	V_VM
+yaad	hi	N_NN
+kr	hi	PR_PRQ
+liya	hi	N_NN
+kr	hi	PR_PRQ
+
+Or	hi	RD_RDF
+chalti	hi	N_NN
+rehti	hi	N_NN
+hai	hi	V_VAUX
+
+hoti	hi	V_VM
+h	hi	RP_INJ
+bt	hi	CC
+abhi	hi	N_NN
+main	hi	N_NNP
+tujhse	hi	V_VM
+naraj	hi	N_NNP
+hu	hi	V_VM
+
+Kar	hi	RD_RDF
+to	hi	PSP
+liya	hi	V_VM
+
+😁😁😁😁	hi	E
+
+okkkk	hi	U
+
+Shadi	hi	N_NNP
+kab	hi	PSP
+hai	hi	V_VM
+?	univ	RD_PUNC
+
+pooja	ne	N_NNP
+ne	hi	PSP
+kaha	hi	RD_RDF
+h	hi	RD_PUNC
+
+Nahi	hi	N_NN
+apka	hi	N_NNP
+message	en	N_NN
+mila	hi	N_NNP
+phke	hi	N_NN
+
+to	hi	PSP
+kr	hi	V_VM
+liya	hi	E
+
+Phle	hi	N_NN
+
+Fir	hi	N_NNP
+bad	hi	V_VM
+me	hi	PR_PRP
+pooja	ne	N_NNP
+ne	hi	PSP
+bataya	hi	N_NN
+
+aa	hi	PSP
+kr	hi	RD_PUNC
+ldka	hi	N_NN
+dekh	hi	V_VM
+tbhi	hi	N_NN
+to	hi	PSP
+hogi	hi	V_VM
+
+okkkk	hi	U
+
+abhi	hi	N_NN
+ni	hi	RP_RPD
+malum	ne	N_NN
+bt	hi	CC
+kya	hi	JJ
+pooja	ne	N_NNP
+ko	hi	PSP
+invite	en	V_VM
+kr	hi	PR_PRQ
+diya	hi	N_NN
+h	hi	RD_PUNC
+tu	hi	PSP
+mt	hi	N_NN
+aaiyu	hi	N_NN
+
+Han	hi	RD_RDF
+thik	hi	N_NNP
+hai	hi	V_VM
+
+Usi	hi	N_NN
+se	hi	PR_PRP
+karo	hi	V_VM
+baat	hi	N_NN
+
+Mere	hi	N_NNP
+se	hi	PR_PRP
+kyu	hi	PR_PRP
+
+Main	hi	N_NNP
+jara	hi	N_NN
+hu	hi	V_VM
+nahane	hi	N_NN
+
+jaaa	hi	N_NN
+
+bdbo	hi	N_NNP
+aa	hi	PSP
+rhi	hi	N_NNP
+h	hi	RD_PUNC
+
+ja	hi	RP_INJ
+
+naha	hi	N_NN
+le	hi	V_VM
+
+Han	hi	RD_RDF
+apko	hi	N_NNP
+itnei	hi	N_NNP
+door	hi	N_NN
+se	hi	PSP
+agayi	hi	V_VM
+na	hi	RP_RPD
+
+Oeeeeee	univ	#
+
+hmmm	hi	RP_INJ
+
+or	hi	CC
+btaaa	univ	N_NN
+sb	hi	N_NNP
+thik	hi	N_NNP
+na	hi	N_NNP
+
+Han	hi	RD_RDF
+di	hi	V_VM
+
+Sab	hi	N_NNP
+thik	hi	N_NNP
+hi	hi	RP_INJ
+hai	hi	V_VAUX
+
+okkk	hi	U
+
+kb	hi	PR_PRQ
+aayega	hi	N_NN
+
+Main	hi	N_NNP
+ara	hi	N_NNP
+hu	hi	N_NNP
+di	hi	PSP
+holibse	hi	V_VM
+ek	hi	QT_QTF
+din	hi	RD_RDF
+phle	hi	N_NN
+
+okkkk	hi	U
+
+Wo	hi	RD_RDF
+kya	hi	JJ
+chugli	hi	N_NN
+kri	hi	PR_PRQ
+moti	hi	N_NN
+meri	hi	N_NNP
+raat	hi	N_NNP
+me	hi	PR_PRP
+?	univ	RD_PUNC
+
+km	hi	PR_PRQ
+boli	hi	N_NNP
+moti	hi	N_NNP
+mt	hi	PR_PRP
+bol	hi	N_NNP
+
+Apko	hi	JJ
+Ni	hi	N_NNP
+puja	hi	N_NN
+ko	hi	PSP
+moti	hi	JJ
+bola	hi	N_NNP
+
+ha	hi	RP_INJ
+use	en	V_VM
+hi	hi	RP_INJ
+moti	hi	N_NN
+mt	hi	PR_PRP
+bol	hi	RD_RDF
+
+smjha	ne	RP_INJ
+
+mjhe	hi	N_NN
+bol	hi	N_NNP
+
+main	hi	N_NNP
+moti	hi	N_NNP
+ho	hi	V_VAUX
+gai	hi	V_VAUX
+na	hi	RP_RPD
+
+Jada	hi	N_NNP
+Ni	hi	DM_DMD
+hora	hi	N_NNP
+kuch	hi	QT_QTF
+
+😡	hi	E
+hmmm	univ	RP_INJ
+
+sun	hi	N_NNP
+jb	hi	N_NNP
+jyega	hi	N_NNP
+na	hi	RP_RPD
+to	hi	PSP
+usse	hi	V_VM
+phele	hi	N_NN
+milne	hi	N_NN
+aaiyu	hi	N_NN
+mjhse	hi	N_NN
+
+Ha	hi	RP_INJ
+did	hi	V_VM
+soch	hi	N_NN
+ra	hi	PSP
+hu	hi	V_VM
+..	univ	RD_PUNC
+
+🤑	univ	RD_PUNC
+
+Did	hi	U
+
+Didi	hi	N_NNP
+
+hmm	univ	RP_INJ
+
+mjhe	hi	N_NN
+usk	hi	V_VM
+liye	hi	PSP
+kuch	hi	QT_QTF
+bhejna	hi	N_NN
+h	hi	RD_PUNC
+
+Kya	hi	N_NNP
+bhej	hi	N_NNP
+Rahe	hi	N_NNP
+ho	hi	V_VAUX
+?	univ	RD_PUNC
+
+patiyala	hi	N_NN
+suit	en	JJ
+
+dono	hi	QT_QTF
+mil	hi	N_NN
+kr	hi	RD_PUNC
+kharid	hi	N_NN
+lengeni	hi	V_VM
+to	hi	PSP
+main	hi	N_NNP
+kharid	hi	N_NN
+kr	hi	PR_PRQ
+rakh	hi	N_NN
+lungi	hi	N_NNP
+
+Are	hi	V_VM
+koi	hi	PR_PRP
+ni	hi	RP_RPD
+
+Nai	hi	RP_INJ
+bhejo	hi	V_VM
+
+fir	hi	N_NN
+tere	hi	PR_PRP
+ko	hi	PSP
+de	hi	PSP
+dungi	hi	N_NNP
+
+Avasarama	hi	N_NNP
+dani	hi	N_NN
+face	en	N_NN
+kosam😡	hi	RD_PUNC
+
+km	hi	PR_PRQ
+bol	hi	N_NNP
+bcha	hi	N_NNP
+h	hi	RD_PUNC
+bcha	hi	N_NNP
+bn	hi	V_VM
+kr	hi	PR_PRQ
+reh	hi	RD_PUNC
+
+tu	hi	CC
+na	hi	RP_RPD
+km	hi	N_NNP
+bol	hi	N_NNP
+
+Nenu	hi	N_NNP
+noru	hi	N_NN
+moseskonu	hi	N_NNP
+
+hm	hi	V_VM
+dono	hi	QT_QTF
+k	hi	RD_PUNC
+bich	hi	N_NN
+mei	hi	N_NN
+na	hi	RP_RPD
+bol	hi	N_NNP
+
+oye	hi	V_VM
+hindi	hi	N_NNP
+bol	hi	N_NNP
+
+Nannu	hi	N_NNP
+eppudu	hi	N_NNP
+pampava	univ	N_NN
+dresses	en	N_NN
+..	univ	RD_PUNC
+Dani	hi	N_NN
+kotta	hi	JJ
+kotta	hi	JJ
+dresses	en	N_NN
+konpedtavu	hi	N_NNP
+
+Nahi	hi	N_NN
+bol	hi	N_NNP
+ra	hi	PSP
+hindi	hi	N_NN
+
+ruk	hi	U
+
+Usse	hi	#
+hi	hi	RP_INJ
+Hindi	hi	V_VM
+me	hi	PR_PRP
+translate	en	N_NN
+Kara	hi	N_NNP
+lena	hi	N_NNP
+
+😡	univ	RD_PUNC
+
+kraaa	hi	N_NNP
+lungi	hi	N_NNP
+
+😡	univ	RD_PUNC
+
+Moti	hi	N_NN
+
+👋🏽👋🏽👋🏽👋🏽👋🏽👋🏽👋🏽👋🏽👋🏽👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻	univ	RD_PUNC
+
+Are	hi	V_VM
+kab	hi	PSP
+jaoge	hi	N_NN
+aap	hi	RD_RDF
+lene	hi	V_VM
+?	univ	RD_PUNC
+
+ab	hi	RD_RDF
+sachi	hi	N_NN
+mei	hi	PR_PRP
+lhayega	hi	N_NN
+
+khayega	hi	N_NN
+
+Patiyala	en	N_NNP
+?	univ	RD_PUNC
+
+Mere	hi	N_NNP
+liye	hi	PSP
+do	hi	V_VM
+chaar	hi	V_VM
+pajame	hi	N_NN
+or	hi	CC
+shirt	en	N_NN
+bhi	hi	N_NN
+bhijwa	hi	N_NN
+do	hi	V_VM
+
+😛😝😝😝😝😝😝😝😝	univ	RD_PUNC
+
+tu	hi	CC
+apna	hi	N_NNP
+kaam	hi	N_NNP
+kr	hi	RD_PUNC
+
+chl	hi	JJ
+bhaag	hi	N_NN
+
+kbhi	hi	PR_PRQ
+b	hi	V_VM
+le	hi	RD_RDF
+lungi	hi	V_VM
+
+Shadi	hi	N_NNP
+me	hi	PR_PRP
+rupye	hi	N_NN
+dunga	hi	N_NN
+kanyadaan	hi	N_NN
+ke	hi	PR_PRQ
+
+mera	hi	N_NNP
+kuch	hi	N_NNP
+ni	hi	RP_RPD
+malum	ne	N_NN
+main	hi	N_NNP
+kb	hi	N_NNP
+shopping	en	V_VM
+kr	hi	PR_PRQ
+lu	hi	N_NN
+
+😀😀😀	univ	RD_PUNC
+
+Haha	univ	RP_INJ
+
+ni	hi	RP_RPD
+chahiye	hi	N_NN
+
+Lol	univ	U
+
+Le	hi	N_NNP
+lo	hi	V_VM
+..	univ	RD_PUNC
+
+tu	hi	CC
+mt	hi	N_NN
+aaiyu	hi	E
+
+Interest	en	JJ
+
+tujhe	hi	N_NN
+di	hi	V_VM
+ki	hi	PR_PRQ
+yaad	hi	JJ
+kaha	hi	N_NN
+aati	hi	N_NN
+h	hi	RP_INJ
+
+Are	hi	V_VM
+aaunga	hi	N_NNP
+
+Avni	hi	N_NNP
+didi	hi	N_NN
+ka	hi	N_NNP
+bhi	hi	N_NN
+aise	hi	RB_AMN
+Hi	hi	N_NN
+nahi	hi	N_NN
+nahi	hi	N_NN
+bolta	hi	JJ
+tha	hi	QT_QTF
+
+sirf	hi	N_NNP
+pooja	hi	N_NNP
+aayegi	hi	N_NN
+wo	hi	V_VM
+b	hi	V_VM
+hr	hi	N_NN
+function	en	N_NN
+mei	hi	N_NN
+
+Or	hi	RD_RDF
+akhirkar	hi	N_NNP
+nahi	hi	N_NN
+ja	hi	N_NN
+paya😔	hi	N_NN
+
+okkk	en	U
+
+Beta	hi	N_NNP
+kya	hi	JJ
+oarichay	hi	N_NNP
+karwaoge	hi	N_NN
+usaka	hi	JJ
+ghar	hi	N_NN
+walo	hi	PSP
+se	hi	PR_PRP
+
+Parichay	hi	N_NN
+
+agr	hi	RD_RDF
+tu	hi	PSP
+meri	hi	N_NN
+mei	hi	N_NN
+ni	hi	RP_RPD
+aaya	hi	N_NN
+to	hi	PSP
+pitega	hi	N_NNP
+bht	hi	N_NN
+
+hmmm	univ	RP_INJ
+sahi	hi	N_NN
+pkde	hi	N_NN
+h😜	hi	RD_PUNC
+
+Hehe	univ	#
+
+kahungi	hi	N_NNP
+ye	hi	DM_DMD
+hone	hi	V_VM
+wali	hi	N_NN
+bahu	hi	N_NN
+h	hi	RD_PUNC
+
+Or	hi	RD_RDF
+fir	hi	N_NN
+to	hi	PSP
+mai	hi	V_VM
+pakka	hi	N_NN
+shadi	hi	V_VM
+me	hi	PR_PRP
+Ni	hi	JJ
+aara	hi	N_NN
+
+aayega	hi	N_NNP
+ni	hi	RP_RPD
+to	hi	PSP
+pitega	hi	N_NN
+
+Are	hi	V_VM
+ajaunga	hi	N_NNP
+di	hi	DT
+tension	en	N_NN
+na	hi	RP_RPD
+lo	hi	N_NNP
+
+Or	hi	RD_RDF
+mastery	en	N_NN
+kaisi	hi	N_NNP
+chal	hi	JJ
+ri	hi	N_NN
+hai	hi	V_VAUX
+apki	hi	N_NN
+
+tu	hi	CC
+pich	hi	N_NN
+mt	hi	PR_PRP
+
+bs	hi	V_VM
+
+ye	hi	DM_DMD
+
+Matlab	hi	N_NNP
+?	univ	RD_PUNC
+
+Vistaar	hi	N_NNP
+se	hi	PR_PRP
+bolo	hi	V_VM
+
+Bolo	hi	JJ
+
+btaungi	hi	N_NNP
+bhi	hi	N_NN
+
+uski	hi	N_NN
+shadi	hi	N_NN
+ho	hi	V_VAUX
+rhi	hi	N_NN
+h	hi	RD_PUNC
+
+😓😷	univ	RD_PUNC
+
+Are	hi	V_VM
+to	hi	PSP
+kaise	hi	V_VM
+fir	hi	N_NN
+?	univ	RD_PUNC
+
+Uske	hi	#
+gharwale	hi	N_NN
+Kara	hi	N_NN
+re	hi	N_NN
+hain	hi	V_VM
+
+??	univ	RD_PUNC
+
+Are	hi	V_VM
+di	hi	PSP
+ap	hi	QT_QTF
+kamlesh	hi	N_NN
+masi	hi	N_NN
+ko	hi	PSP
+jante	hi	N_NN
+ho	hi	V_VM
+?	univ	RD_PUNC
+
+haaa	hi	JJ
+janti	hi	N_NN
+hu	hi	V_VM
+shayd	hi	V_VM
+
+haaa	univ	RP_INJ
+
+usk	hi	V_VM
+ghr	hi	N_NN
+wale	hi	N_NN
+kraa	hi	N_NN
+rh	hi	RD_PUNC
+h	hi	RD_PUNC
+
+Wo	hi	RB_AMN
+man	hi	N_NN
+gaya	hi	N_NN
+?	univ	RD_PUNC
+
+dhamki	hi	N_NN
+mili	hi	N_NN
+h	hi	RP_INJ
+use	hi	V_VM
+
+Aaaaaaaaahhh	univ	N_NNP
+?	univ	RD_PUNC
+
+Kaisi	hi	N_NNP
+?	univ	RD_PUNC
+
+ki	hi	PR_PRQ
+agr	hi	JJ
+tune	hi	N_NN
+shadi	hi	N_NN
+ni	hi	RP_RPD
+ki	hi	PR_PRQ
+to	hi	PSP
+hm	hi	V_VM
+ye	hi	DM_DMD
+kr	hi	PR_PRQ
+lenge	hi	V_VM
+
+Ye	hi	PR_PRP
+kya	hi	JJ
+karenge	hi	N_NNP
+?	univ	RD_PUNC
+
+are	hi	V_VM
+mr	hi	DT
+jyenge	hi	V_VM
+
+or	hi	CC
+wo	hi	RP_RPD
+maan	hi	N_NN
+gy	hi	N_NN
+
+Are	hi	V_VM
+yar	hi	RP_INJ
+
+Maa	hi	N_NNP
+bap	hi	N_NNP
+hain	hi	V_VM
+na	hi	RP_RPD
+
+To	hi	PSP
+ap	hi	V_VM
+ka	hi	N_NNP
+karoge	hi	V_VAUX
+ab	hi	PSP
+di	hi	DM_DMD
+?	univ	RD_PUNC
+
+waise	hi	V_VM
+b	hi	V_VM
+hmari	hi	N_NN
+shadi	hi	N_NN
+ni	hi	RP_RPD
+ho	hi	V_VAUX
+skti	hi	N_NN
+thi	hi	V_VM
+tujhe	hi	N_NN
+ptaa	hi	N_NN
+hai	hi	V_VAUX
+
+hmmm	univ	RP_INJ
+
+Han	hi	RD_RDF
+wo	hi	V_VM
+bhi	hi	N_NN
+baat	hi	N_NN
+hai	hi	V_VAUX
+
+tu	hi	CC
+nikhil	univ	JJ
+bhai	hi	N_NN
+ko	hi	PSP
+janta	hi	JJ
+h	hi	RD_PUNC
+na	hi	RP_RPD
+wo	hi	N_NNV
+maar	hi	N_NN
+daltaaa	hi	N_NN
+
+waise	hi	V_VM
+b	hi	V_VM
+wo	hi	PSP
+sc	hi	N_NNP
+tha	hi	RD_RDF
+or	hi	CC
+b	hi	V_VM
+kafi	hi	N_NN
+dikt	hi	V_VM
+thi	hi	PR_PRP
+to	hi	PSP
+acha	hi	JJ
+hua	hi	V_VM
+uski	hi	N_NN
+shadi	hi	N_NN
+kahi	hi	N_NN
+or	hi	CC
+ho	hi	DT
+rhi	hi	N_NN
+ghr	hi	V_VM
+wale	hi	N_NN
+to	hi	PSP
+maar	hi	N_NN
+hi	hi	N_NN
+daltei	hi	N_NN
+mjhe	hi	N_NN
+
+Han	hi	RD_RDF
+didi	hi	N_NN
+
+Koi	hi	N_NNP
+Ni	hi	JJ
+aap	hi	N_NN
+ache	hi	PSP
+ladki	hi	N_NN
+jo	hi	PR_PRL
+
+Kuch	hi	RD_RDF
+hua	hi	V_VM
+to	hi	PSP
+nahi	hi	N_NN
+tha	hi	V_VM
+na	hi	RP_RPD
+?	univ	RD_PUNC
+
+niiii	hi	JJ
+
+Chalo	hi	V_VM
+to	hi	PSP
+Jada	hi	N_NNP
+tension	en	N_NN
+na	hi	RP_RPD
+lo	hi	$
+...	univ	RD_PUNC
+
+hmmm	univ	RP_INJ
+
+tujhe	hi	N_NN
+apni	hi	N_NNP
+behn	hi	N_NNP
+pr	hi	N_NN
+bharosa	hi	N_NN
+h	hi	RD_PUNC
+na	hi	RP_RPD
+
+ya	hi	RP_INJ
+ni	hi	RP_RPD
+
+Are	hi	V_VM
+hai	hi	V_VM
+..	univ	RD_PUNC
+Kyu	hi	JJ
+nahi	hi	N_NN
+hoga	hi	N_NNP
+
+acha	hi	JJ
+ye	hi	DM_DMD
+btaaa	hi	N_NN
+kmlesh	hi	N_NNP
+bua	hi	N_NN
+k	hi	RD_PUNC
+bare	hi	N_NN
+mei	hi	PR_PRP
+kya	hi	N_NNP
+bol	hi	RD_RDF
+rh	hi	RD_RDF
+tha	hi	QT_QTF
+
+hmmm	univ	RP_INJ
+
+baat	hi	N_NN
+hoti	hi	V_VM
+h	hi	RP_INJ
+hmari	hi	N_NNP
+aaj	hi	RD_RDF
+b	hi	V_VM
+
+Nikki	hi	N_NNP
+didi	hi	N_NN
+hain	hi	V_VM
+na	hi	RP_RPD
+
+hmmm	univ	RP_INJ
+
+Unko	hi	N_NNP
+pics	en	N_NN
+moti	hi	N_NN
+ko	hi	PSP
+dikhaunga	hi	V_VM
+hain	hi	V_VM
+Unki	hi	U
+
+okkk	en	U
+
+Fb	en	N_NNP
+ID	en	N_NNV
+hai	hi	V_VM
+?	univ	RD_PUNC
+
+meri	hi	N_NN
+?????	univ	RD_PUNC
+
+Are	hi	V_VM
+unki	hi	N_NN
+
+ptaaa	hi	N_NN
+ni	hi	RP_RPD
+mere	hi	V_VM
+frd	en	JJ
+list	en	N_NN
+mei	hi	N_NN
+ni	hi	RP_RPD
+h	hi	RD_PUNC
+
+Are	hi	V_VM
+yar	hi	RP_INJ
+
+kya	hi	JJ
+
+???	univ	RD_PUNC
+
+I	en	PR_PRP
+mean	en	V_VM
+.	univ	RD_PUNC
+Ye	hi	PR_PRP
+bol	hi	RD_RDF
+ri	hi	N_NN
+thi	hi	PR_PRP
+ki	hi	PR_PRQ
+unki	hi	N_NN
+pics	en	N_NN
+do	hi	V_VM
+
+okkk	en	U
+
+lucky	univ	JJ
+bhai	hi	N_NN
+ki	hi	PR_PRQ
+frd	en	JJ
+list	en	N_NN
+mei	hi	N_NN
+ho	hi	V_VAUX
+skti	hi	N_NN
+h	hi	RD_PUNC
+wo	hi	V_VM
+
+waise	hi	V_VM
+wo	hi	V_VM
+bht	hi	N_NN
+achi	hi	JJ
+h	hi	RD_PUNC
+kbhi	hi	N_NN
+use	en	V_VM
+chodna	hi	N_NN
+ni	hi	RP_RPD
+okkkk	en	N_NN
+
+Pooja	univ	N_NNP
+?	univ	RD_PUNC
+
+Han	hi	RD_RDF
+din	hi	V_VM
+me	hi	PR_PRP
+Chand	hi	N_NNP
+ka	hi	N_NNP
+tukda	hi	N_NNP
+ban	hi	V_VM
+gayi	hi	N_NN
+?	univ	RD_PUNC
+
+g	hi	N_NN
+ni	hi	RP_RPD
+wo	hi	RP_RPD
+b	hi	V_VM
+ek	hi	DM_DMD
+ldki	hi	N_NN
+h	hi	RP_INJ
+isliye	hi	N_NN
+bol	hi	RD_RDF
+rhi	hi	N_NNP
+hu	hi	V_VM
+as	en	PSP
+a	en	DT
+human	en	N_NN
+...	univ	RD_PUNC
+
+To	hi	PSP
+human	en	V_VM
+to	hi	PSP
+main	hi	N_NNP
+bhi	hi	N_NN
+hu	hi	V_VM
+na	hi	RP_RPD
+
+😡	univ	RD_PUNC
+
+mjhe	hi	N_NN
+malum	hi	N_NN
+h	hi	RP_INJ
+kitna	hi	N_NNP
+bura	hi	N_NNP
+lgta	hi	N_NNP
+h	hi	RP_INJ
+jb	hi	N_NNP
+hm	hi	V_VM
+apne	hi	PR_PRF
+pyr	hi	PSP
+se	hi	PR_PRP
+dur	hi	QT_QTF
+hote	hi	V_VM
+h	hi	RP_INJ
+
+Are	hi	V_VM
+didi	hi	N_NN
+
+Pata	hi	N_NN
+I	en	PR_PRP
+also	en	RB_AMN
+know	en	V_VM
+
+Pata	hi	JJ
+hai	hi	V_VM
+
+hmmm	univ	RP_INJ
+
+so	en	RB_AMN
+pls	en	RP_INJ
+
+bhai	hi	N_NN
+kbhi	hi	N_NNP
+kuch	hi	QT_QTF
+galat	hi	N_NNP
+kriyu	hi	N_NNP
+
+K	en	RD_RDF
+d	hi	DT
+..	univ	RD_PUNC
+Abhi	hi	V_VM
+tak	hi	V_VM
+to	hi	PSP
+kiya	hi	N_NNP
+nai	hi	$
+...	univ	RD_PUNC
+
+krna	hi	N_NNP
+b	hi	V_VM
+ni	hi	RP_RPD
+hai	hi	V_VAUX
+
+Nai	hi	DM_DMD
+karunga	hi	N_NNP
+di	hi	V_VM
+..	univ	RD_PUNC
+
+okkk	en	U
+
+good	en	JJ
+
+Ap	hi	JJ
+ab	hi	RD_RDF
+fresh	en	N_NN
+mind	en	N_NN
+se	hi	PSP
+ho	hi	V_VM
+?	univ	RD_PUNC
+
+niii	hi	U
+
+Aca	hi	N_NNP
+hai	hi	V_VM
+nai	hi	PR_PRF
+large	en	N_NN
+?	univ	RD_PUNC
+
+Shadi	hi	N_NNP
+*	univ	RD_PUNC
+
+koshish	hi	N_NNP
+kr	hi	RD_RDF
+rhi	hi	N_NNP
+hu	hi	V_VM
+
+hmm	univ	RP_INJ
+
+Acha	hi	N_NN
+Rona	hi	N_NNP
+dhona	hi	N_NN
+karte	hi	N_NN
+ho	hi	V_VM
+?	univ	RD_PUNC
+
+hmmm	univ	RP_INJ
+
+Nai	hi	RP_INJ
+rona	hi	N_NNP
+
+Bhai	hi	N_NN
+hai	hi	V_VM
+na	hi	RP_RPD
+
+😘	univ	RD_PUNC
+
+hmmm	univ	RP_INJ
+
+i	en	PR_PRP
+know	en	V_VM
+
+okkk	en	U
+
+😘😘	univ	RD_PUNC
+
+hmmm	univ	RP_INJ
+
+☺☺☺☺☺	univ	#
+😊😊😊😊😊😊😊	univ	RD_PUNC
+
+Or	hi	RD_RDF
+dasso	hi	N_NN
+
+kya	hi	JJ
+
+Kujh	hi	RP_INJ
+v	hi	RD_RDF
+
+kya	hi	JJ
+
+Hehe	univ	#
+
+Chalo	hi	N_NNP
+mai	hi	N_NN
+.	univ	RD_PUNC
+Lunch	en	V_VM
+karne	hi	N_NN
+jara	hi	N_NN
+hu	hi	V_VM
+
+okkk	en	#
+bye	en	V_VM
+
+Didi	hi	N_NNP
+
+Hi	en	RP_INJ
+
+hiii	en	U
+
+Kya	hi	JJ
+kr	hi	RD_RDF
+re	hi	PSP
+o	hi	CC
+
+tv	en	#
+dekh	hi	N_NN
+rhi	hi	N_NNP
+hu	hi	V_VM
+
+Serial	en	JJ
+
+😖	univ	RD_PUNC
+
+..	univ	RD_PUNC
+hmmmm	univ	RP_INJ
+
+sahi	hi	N_NN
+pkde	hi	N_NN
+h	hi	RP_INJ
+
+tu	hi	CC
+kya	hi	JJ
+kr	hi	PR_PRQ
+rh	hi	N_NN
+
+Kuch	hi	RD_RDF
+Ni	hi	JJ
+baitha	hi	N_NN
+hu	hi	V_VM
+
+kisk	hi	V_VM
+sath	hi	N_NN
+
+pooja	univ	N_NNP
+k	hi	RD_PUNC
+
+Nahi	hi	N_NN
+di	hi	V_VM
+
+Hostel	en	#
+me	hi	PR_PRP
+
+Kal	hi	RD_RDF
+mandir	hi	N_NN
+jaynge	hi	N_NN
+
+Hi	en	RP_INJ
+di	hi	V_VM
+
+Are	hi	V_VM
+apko	hi	N_NNP
+dhyan	hi	N_NN
+rakhne	hi	N_NN
+ka	hi	N_NNP
+shonk	hi	V_VM
+hai	hi	V_VAUX
+Jada	hi	N_NN
+to	hi	PSP
+rakh	hi	V_VM
+lo	hi	V_VM
+aap	hi	RD_RDF
+
+acha	hi	JJ
+
+km	hi	PR_PRQ
+bol	hi	N_NNP
+
+Han😡	hi	U
+
+Use	hi	V_VM
+b	hi	V_VM
+bola	hi	N_NNP
+karo	hi	V_VM
+mera	hi	N_NNP
+rakhne	hi	N_NN
+k	hi	RD_PUNC
+lye	hi	N_NN
+
+pagal	hi	JJ
+mjhe	hi	N_NN
+tm	hi	PSP
+dono	hi	QT_QTF
+ka	hi	N_NNP
+khyl	hi	QT_QTF
+h	hi	RP_INJ
+
+Biased	en	JJ
+ho	hi	V_VAUX
+ladkiyp	hi	PR_PRQ
+ki	hi	PR_PRQ
+taraf😡	hi	N_NN
+
+Ladkiyo	hi	U
+
+okkkk	en	#
+babu	hi	N_NN
+
+niii	hi	JJ
+re	hi	N_NNP
+
+Eeeeee😝🤗	univ	U
+
+🔫	univ	RD_PUNC
+
+🙄	univ	RD_PUNC
+
+or	hi	CC
+btaaa	hi	N_NN
+
+sb	hi	PR_PRP
+thik	hi	N_NNP
+???	univ	RD_PUNC
+
+Bas	hi	RD_RDF
+sounga	hi	N_NNP
+ab	hi	RD_RDF
+to	hi	RP_RPD
+
+Sab	hi	N_NNP
+mast	hi	N_NN
+hai	hi	V_VM
+
+Thak	hi	N_NNP
+gaya	hi	N_NN
+jaada	hi	N_NNP
+
+okkk	en	U
+
+Fir	hi	N_NN
+se	hi	PR_PRP
+assignment	en	V_VM
+hai	hi	V_VAUX
+ek	hi	QT_QTF
+or	hi	CC
+
+I	en	PR_PRP
+mean	en	V_VM
+aur	hi	E
+
+okk	en	U
+
+chl	hi	JJ
+rest	en	N_NN
+kr	hi	PR_PRQ
+le	hi	V_VM
+
+kkk	en	U
+
+Chalo	hi	V_VM
+to	hi	PSP
+rat	hi	V_VM
+me	hi	PR_PRP
+vaartalap	hi	RB_AMN
+karte	hi	V_VM
+hain	hi	V_VAUX
+
+fir	hi	N_NN
+pd	hi	N_NN
+liyu	hi	V_VM
+
+GunnitGunnite	en	#
+
+okkk	en	#
+bye	en	V_VM
+
+gn	en	U
+
+😘	univ	RD_PUNC
+bye	en	RP_INJ
+di	hi	V_VM
+
+Hapy	en	RB_AMN
+women's	en	N_NN
+day	en	N_NN
+di	hi	PSP
+
+thank	en	V_VM
+u	en	PR_PRP
+
+😘😘	univ	RD_PUNC
+
+gm	en	U
+
+😘gm	en	RD_PUNC
+di	hi	V_VM
+
+Hiiiii	en	U
+
+hiii	en	U
+
+Kaisan	hi	N_NNP
+ba	hi	N_NNP
+?	univ	RD_PUNC
+
+mst	hi	JJ
+Hi	en	RP_INJ
+
+gm	en	U
+
+Hi	en	RP_INJ
+di😘	hi	V_VM
+
+😡😡😡😡	univ	RD_PUNC
+
+Busy	en	JJ
+ho	hi	V_VM
+?	univ	RD_PUNC
+
+hiiii	en	U
+
+kaise	hi	#
+ho	hi	V_VAUX
+
+Mast	hi	JJ
+hu	hi	RP_INJ
+di	hi	V_VM
+
+Ap	hi	JJ
+suna	hi	N_NN
+
+Sunao	hi	U
+
+thik	hi	N_NNP
+hu	hi	RP_INJ
+
+aap	hi	RD_RDF
+btao	hi	V_VM
+
+Main	hi	RB_AMN
+abhi	hi	N_NNP
+evaluation	en	N_NN
+karwa	hi	N_NN
+k	hi	RD_PUNC
+aaraha	hi	N_NN
+hu	hi	V_VM
+Prof	en	N_NN
+ke	hi	PR_PRQ
+cabin	en	V_VM
+se	hi	PR_PRP
+
+😁	univ	RD_PUNC
+
+Or	hi	RD_RDF
+class	en	V_VM
+me	hi	PR_PRP
+baitha	hi	N_NN
+hun😁😁	hi	RD_PUNC
+
+Di	hi	N_NNP
+ram	hi	RD_RDF
+ram	hi	RD_RDF
+
+ram	hi	RD_RDF
+ram	hi	RD_RDF
+
+Kaisan	hi	N_NNP
+ba	hi	N_NNP
+
+mst	hi	N_NN
+ba	hi	N_NNP
+
+aa	hi	PSP
+gy	hi	N_NN
+tu	hi	PSP
+
+Yo	hi	RP_INJ
+di	hi	V_VM
+
+Agaya	hi	N_NNP
+ghra	hi	N_NN
+pe	hi	PSP
+
+okkk	en	U
+
+Yoo	univ	RP_INJ
+
+kb	hi	PR_PRQ
+aayega	hi	N_NN
+???	univ	RD_PUNC
+
+Didi	hi	N_NNP
+..	univ	RD_PUNC
+Abhi	hi	N_NN
+rmto	hi	N_NNP
+akka	hi	JJ
+nahi	hi	N_NN
+hai	hi	V_VAUX
+ki	hi	PR_PRQ
+kab	hi	PSP
+aaunga	hi	N_NN
+..	univ	RD_PUNC
+
+Mujhe	hi	N_NN
+kaam	hi	N_NNP
+bhi	hi	N_NN
+bohot	hi	V_VM
+Mia	hi	N_NNP
+hua	hi	V_VM
+hai	hi	V_VAUX
+.	univ	RD_PUNC
+
+to	hi	PSP
+aa	hi	DT
+jaiyu	hi	N_NN
+chup	hi	N_NN
+chap	hi	V_VAUX
+
+Di	hi	N_NNP
+il	en	N_NNV
+try	en	V_VM
+mah	en	DT
+best	en	JJ
+
+okk	en	U
+
+aa	hi	PSP
+jaiyu	hi	N_NN
+
+uska	hi	N_NNP
+suit	en	JJ
+le	hi	V_VM
+kr	hi	PR_PRQ
+jana	hi	N_NN
+h	hi	RD_PUNC
+to	hi	PSP
+
+okkkk	en	U
+
+Accha	hi	N_NNP
+
+hmm	univ	RP_INJ
+
+Aho	hi	JJ
+aho	hi	RP_INJ
+
+hmmm	univ	RP_INJ
+
+Kaise	hi	#
+ho	hi	V_VAUX
+ap	hi	PR_PRQ
+di	hi	PSP
+
+Kya	hi	JJ
+kar	hi	V_VM
+re	hi	N_NNP
+hi	hi	RP_INJ
+?	univ	RD_PUNC
+
+Ho	hi	RP_INJ
+
+kuch	hi	QT_QTF
+ni	hi	RP_RPD
+
+tv	en	#
+dekh	hi	N_NN
+rhi	hi	N_NNP
+hu	hi	V_VM
+
+Oho	en	U
+
+Ashok	en	N_NNP
+.	univ	RD_PUNC
+
+😝	univ	RD_PUNC
+
+niii	hi	U
+
+kumkum	en	N_NN
+bhagya	hi	N_NN
+
+Yar	hi	#
+..	univ	RD_PUNC
+Chee	hi	V_VM
+
+Yakkk	hi	U
+
+kua	hi	#
+
+kya	hi	JJ
+
+Ye	hi	PR_PRP
+kya	hi	N_NNP
+kya	hi	N_NNP
+serial	en	JJ
+dekhte	hi	V_VM
+rehte	hi	V_VM
+hain	hi	V_VAUX
+
+kyu	hi	#
+acha	hi	JJ
+to	hi	PSP
+h	hi	V_VM
+pagal	hi	N_NN
+natak	hi	V_VM
+
+Wese	hi	N_NN
+mujhe	hi	PR_PRP
+thik	hi	N_NNP
+lagta	hi	N_NNP
+hai	hi	V_VAUX
+
+But	en	CC
+hw	en	N_NN
+can	en	V_VM
+u	en	PR_PRP
+juss	en	V_VM
+only	en	RB_AMN
+watch	en	V_VM
+serials	en	N_NN
+..	univ	RD_PUNC
+
+for	en	PSP
+time	en	N_NN
+passa	en	N_NN
+
+Passa	hi	N_NN
+
+Tamilla	ne	N_NNP
+?	univ	RD_PUNC
+
+na	hi	RP_RPD
+
+pass	en	N_NN
+
+Ahaaan	hi	N_NNP
+
+hmmm	univ	RP_INJ
+
+Huu	univ	U
+
+Huu	univ	U
+
+hmmm	univ	RP_INJ
+
+or	hi	CC
+
+Bas	hi	RD_RDF
+vadyia	hi	N_NNP
+sab	hi	QT_QTF
+
+aa	hi	PSP
+ja	hi	N_NNP
+mom	en	N_NN
+se	hi	PSP
+b	hi	V_VM
+mil	hi	N_NN
+liyu	hi	N_NN
+
+okk	en	U
+
+Han	hi	RD_RDF
+di	hi	V_VM
+.	univ	RD_PUNC
+Man	en	V_VM
+to	hi	PSP
+bohot	hi	V_VM
+hai	hi	V_VAUX
+mera	hi	N_NNP
+ghimne	hi	N_NN
+ka	hi	N_NNP
+
+Par	hi	RD_RDF
+ye	hi	DM_DMD
+kaam	hi	V_VM
+hai	hi	V_VAUX
+clg	en	N_NN
+ka	hi	N_NNP
+..	univ	RD_PUNC
+
+to	hi	PSP
+aa	hi	DT
+ja	hi	N_NNP
+
+Cnfuzd	en	N_NNP
+hun	hi	V_VM
+bohot	hi	V_VM
+
+kr	hi	PR_PRQ
+liyu	hi	N_NN
+
+dekh	hi	RP_INJ
+le	hi	V_VM
+
+Han	hi	V_VM
+di	hi	V_VAUX
+..	univ	RD_PUNC
+
+Ata	hi	JJ
+Ni	hi	N_NN
+..	univ	RD_PUNC
+
+4	hi	PSP
+din	hi	RD_RDF
+ki	hi	RP_RPD
+chutti	hi	N_NN
+hai	hi	V_VM
+Ni	hi	CC
+..	univ	RD_PUNC
+Or	hi	RD_RDF
+jaane	hi	N_NN
+ka	hi	N_NNP
+man	hi	N_NN
+har	hi	V_VM
+jagah	hi	N_NN
+hai	hi	V_VM
+
+okkk	en	U
+
+aa	hi	PSP
+jaiyu	hi	N_NN
+okkk	en	V_VM
+
+i	en	PR_PRP
+m	en	N_NNP
+waiting	en	V_VM
+
+Han	hi	RD_RDF
+di	hi	V_VM
+aise	hi	RB_AMN
+mat	hi	N_NNP
+bolo	hi	N_NNP
+
+Mera	hi	N_NNP
+to	hi	PSP
+khud	hi	V_VM
+man	hi	N_NN
+karta	hi	JJ
+hai	hi	V_VAUX
+..	univ	RD_PUNC
+
+okkk	en	U
+
+Aan	hi	U
+
+Upset	en	JJ
+ho	hi	V_VAUX
+kya	hi	JJ
+?	univ	RD_PUNC
+
+hmmmm	univ	RP_INJ
+
+Kya	hi	JJ
+hua	hi	RD_RDF
+?	univ	RD_PUNC
+
+kuch	hi	QT_QTF
+ni	hi	RP_RPD
+
+tu	hi	CC
+milne	hi	N_NN
+ni	hi	RP_RPD
+aa	hi	PSP
+rh	hi	N_NN
+h	hi	RD_PUNC
+na	hi	RP_RPD
+isliye	hi	N_NN
+
+Bolo	hi	JJ
+
+Accha	hi	N_NNP
+
+Di	hi	N_NNP
+apki	hi	N_NN
+kasan	hi	N_NNP
+
+Kasam	hi	U
+
+Main	hi	RB_AMN
+jhuth	hi	N_NNP
+Ni	hi	DM_DMD
+bol	hi	N_NNP
+ra	hi	N_NNP
+
+Abhi	hi	N_NNP
+b	hi	V_VM
+bohot	hi	N_NN
+kaam	hi	N_NNP
+hain	hi	V_VM
+
+Ap	hi	JJ
+puja	hi	N_NN
+se	hi	PSP
+puch	hi	QT_QTF
+kena	hi	N_NNP
+
+ptaaa	hi	N_NN
+h	hi	RP_INJ
+b	hi	V_VM
+
+babu	hi	N_NN
+koi	hi	PR_PRP
+ni	hi	RP_RPD
+
+tu	hi	CC
+free	en	JJ
+ho	hi	V_VM
+jye	hi	N_NN
+to	hi	PSP
+btaaa	hi	V_VM
+diyu	hi	PSP
+okkkk	en	V_VM
+
+Di	hi	N_NNP
+sach	hi	V_VM
+me	hi	PR_PRP
+..	univ	RD_PUNC
+Main	hi	V_VM
+thoda	hi	N_NN
+future	en	N_NN
+ki	hi	PR_PRQ
+tension	en	V_VM
+me	hi	PR_PRP
+bhi	hi	N_NN
+hun	hi	V_VM
+na	hi	RP_RPD
+
+are	hi	V_VM
+
+mt	hi	PR_PRP
+le	hi	V_VM
+pagal	hi	E
+
+Mm	hi	N_NNP
+keni	hi	N_NNP
+padti	hi	N_NN
+hai	hi	V_VAUX
+..	univ	RD_PUNC
+
+Leni	hi	U
+
+tention	en	N_NN
+lene	hi	V_VM
+se	hi	PSP
+kuch	hi	QT_QTF
+ni	hi	RP_RPD
+hota	hi	N_NN
+
+hmmm	univ	RP_INJ
+
+ye	hi	DM_DMD
+to	hi	PSP
+h	hi	V_VM
+bt	hi	CC
+fir	hi	V_VM
+b	hi	V_VM
+
+Hmm	univ	U
+
+Ab	hi	N_NNP
+summer	en	N_NN
+training	en	N_NN
+dekhni	hi	V_VM
+hai	hi	V_VAUX
+koi	hi	QT_QTF
+acchi	hi	JJ
+si	hi	PR_PRP
+or	hi	CC
+btaa	hi	N_NN
+
+okkk	en	U
+
+Han	hi	V_VM
+..	univ	RD_PUNC
+
+Bas	hi	RD_RDF
+Kuch	hi	RD_RDF
+ni	hi	RP_RPD
+
+Gujiya	hi	N_NNP
+kha	hi	N_NNP
+lo	hi	V_VM
+aajao	hi	N_NN
+
+kyu	hi	U
+
+le	hi	V_VM
+kr	hi	PR_PRQ
+aa	hi	PSP
+jaiyu	hi	N_NN
+
+i	hi	PR_PRP
+lv	hi	V_VM
+gujiya😋	hi	V_VM
+
+khana	hi	N_NN
+khaa	hi	N_NNP
+liya	hi	N_NNP
+?	univ	RD_PUNC
+
+di	hi	DM_DMD
+thik	hi	N_NNP
+h	hi	N_NNP
+??	univ	RD_PUNC
+
+Accha😅😅	hi	U
+
+namstei	hi	N_NN
+bol	hi	N_NNP
+diyu	hi	QT_QTF
+di	hi	PSP
+ko	hi	PSP
+b	hi	V_VM
+fufa	hi	N_NN
+g	hi	N_NN
+ko	hi	PSP
+b	hi	V_VM
+okkk	hi	PR_PRP
+
+Aata	hi	JJ
+hu	hi	V_VM
+to	hi	PSP
+launga	hi	V_VM
+
+hmmmm	hi	RP_INJ
+
+Ahaan	hi	N_NNP
+..	univ	RD_PUNC
+Gujiya	hi	N_NNP
+or	hi	CC
+namastey	hi	N_NN
+uhh	hi	PR_PRP
+
+okkkk	en	U
+
+😁😅😅😅	univ	RD_PUNC
+
+Bhukkad	hi	U
+
+hmmmm	hi	RP_INJ
+
+😂😂😜	univ	RD_PUNC
+
+hmmm	hi	RP_INJ
+
+Chaalu	hi	N_NNP
+ladki	hi	N_NN
+
+hmmm	hi	RP_INJ
+
+😡😡😡😡😡😡	univ	RD_PUNC
+
+Or	hi	RD_RDF
+kya	hi	JJ
+..	univ	RD_PUNC
+😁😁😅😅😅	univ	RD_PUNC
+
+kyu	hi	PR_PRQ
+?	univ	RD_PUNC
+
+Are	hi	V_VM
+koi	hi	PR_PRP
+Ni	hi	JJ
+kha	hi	N_NN
+kena	hi	N_NNP
+
+Lena	hi	N_NNP
+
+Ghar	hi	JJ
+nahi	hi	N_NN
+aavoge	hi	N_NN
+aa	hi	PSP
+?	univ	RD_PUNC
+
+okkk	en	U
+
+😊	univ	RD_PUNC
+
+aaungi	hi	JJ
+abhi	hi	N_NN
+mom	en	N_NN
+ki	hi	PR_PRQ
+tbiyt	hi	JJ
+khrb	hi	QT_QTF
+h	hi	RP_INJ
+
+bht	hi	U
+
+Kya	hi	JJ
+hua	hi	RD_RDF
+mami	ne	N_NN
+g	hi	N_NN
+ko	hi	PSP
+?	univ	RD_PUNC
+
+di	hi	DM_DMD
+se	hi	PR_PRP
+puch	hi	QT_QTF
+liyu	hi	N_NN
+okkk	en	N_NNP
+
+Mammi	hi	N_NNP
+b	hi	V_VM
+aisi	hi	N_NN
+Hi	hi	V_VM
+hain	hi	V_VAUX
+..	univ	RD_PUNC
+Khud	hi	V_VM
+b	hi	V_VM
+bmar	hi	N_NN
+gain	hi	V_VM
+
+Hain	hi	U
+
+hmmm	univ	RP_INJ
+
+Are	hi	V_VM
+hmm	univ	RP_INJ
+se	hi	PSP
+age	hi	V_VM
+b	hi	V_VM
+Kuch	hi	RD_RDF
+bol	hi	RD_RDF
+lo	hi	V_VM
+
+kya	hi	JJ
+???	univ	RD_PUNC
+
+Hmm	univ	RD_RDF
+hmm	univ	RP_INJ
+kar	hi	V_VM
+re	hi	N_NN
+h	hi	RD_PUNC
+
+acha	hi	JJ
+
+Or	hi	RD_RDF
+btaaa	hi	N_NN
+
+Bas	hi	RD_RDF
+abhi	hi	N_NNP
+dinner	en	N_NN
+karke	hi	N_NN
+aata	hi	JJ
+hu	hi	V_VM
+
+okkk	en	U
+
+bye	en	RP_INJ
+
+Hi	en	RP_INJ
+
+hiii	en	U
+
+😁	univ	RD_PUNC
+
+Kya	hi	JJ
+haal😝😝	hi	V_VM
+
+bdiya	hi	N_NN
+
+Haha	univ	RP_INJ
+
+Khana	hi	N_NNP
+hogya	hi	N_NNP
+?	univ	RD_PUNC
+
+hmmm	univ	RP_INJ
+
+Namaskar	hi	N_NNP
+didi	hi	N_NN
+
+Ki	hi	DM_DMD
+haal	hi	N_NN
+ba	hi	N_NNP
+
+ram	hi	RD_RDF
+ram	hi	RD_RDF
+bhai	hi	N_NN
+
+bdiya	hi	N_NN
+
+tm	hi	#
+btao	hi	N_NNP
+
+Bas	hi	RD_RDF
+maje	hi	V_VM
+me	hi	PR_PRP
+
+okkk	en	U
+
+or	hi	CC
+bua	hi	N_NN
+g	hi	N_NN
+kaisi	hi	N_NNP
+h	hi	RD_PUNC
+
+Mammi	hi	N_NNP
+b	hi	V_VM
+thk	hi	N_NN
+thak	hi	V_VM
+hain	hi	V_VAUX
+..	univ	RD_PUNC
+Hospital	en	JJ
+gayi	hi	N_NN
+hain	hi	V_VAUX
+chachi	hi	N_NN
+ka	hi	N_NNP
+xhekup	en	N_NNP
+karwane	hi	V_VM
+
+okkk	en	U
+
+chachi	hi	N_NN
+ko	hi	PSP
+kya	hi	JJ
+hua	hi	RD_RDF
+
+Are	hi	V_VM
+Kuch	hi	RD_RDF
+hai	hi	V_VAUX
+unko	hi	CC
+prblm	en	N_NN
+..	univ	RD_PUNC
+
+okkkk	en	U
+
+or	hi	CC
+lucky	en	JJ
+bhai	hi	N_NN
+gy	hi	N_NN
+
+Na	hi	RP_INJ
+na	hi	RP_RPD
+
+Yahi	hi	N_NN
+hai	hi	V_VM
+abhi	hi	N_NN
+to	hi	PSP
+
+okkk	en	U
+
+hello	en	RP_INJ
+bol	hi	N_NNP
+de	hi	PSP
+
+fufa	hi	JJ
+g	hi	N_NN
+ko	hi	PSP
+nmstei	hi	N_NN
+
+Han	hi	RD_RDF
+g	hi	N_NN
+bilkul	hi	JJ
+namastey	hi	N_NN
+
+hmmmm	univ	RP_INJ
+
+good	en	JJ
+
+or	hi	CC
+btaaa	hi	N_NN
+
+Movie	en	N_NN
+dekh	hi	V_VM
+raha	hi	N_NNP
+hun	hi	V_VAUX
+..	univ	RD_PUNC
+Awara	hi	N_NN
+pagal	hi	JJ
+diwana	hi	N_NN
+
+okkkk	en	U
+
+wo	hi	RP_RPD
+to	hi	PSP
+tu	hi	V_VM
+h	hi	RD_PUNC
+
+😜	univ	RD_PUNC
+
+Han	hi	RD_RDF
+SAI	hi	V_VM
+hai	hi	V_VAUX
+.	univ	RD_PUNC
+bilkul	hi	N_NNP
+
+hmmm	univ	RP_INJ
+
+or	hi	CC
+bta	hi	JJ
+
+Bas	hi	N_NNP
+..	univ	RD_PUNC
+Aj	hi	RD_RDF
+apna	hi	N_NNP
+project	en	N_NN
+wrk	hi	V_VM
+start	en	V_VM
+karunga	hi	N_NNP
+
+okkk	en	U
+
+khtm	hi	DM_DMD
+kr	hi	RD_RDF
+jldi	hi	N_NNP
+
+Han	hi	RD_RDF
+di	hi	V_VM
+net	en	N_NN
+pack	en	N_NN
+Jada	hi	N_NNP
+chahye	hi	N_NN
+uske	hi	N_NN
+lye	hi	V_VM
+na	hi	RP_RPD
+
+hmmm	univ	RP_INJ
+
+wifi	en	PR_PRP
+ni	hi	RP_RPD
+h	hi	RP_INJ
+
+Nai	hi	RP_INJ
+☹☹	univ	N_NNP
+
+yaha	hi	RP_INJ
+ja	hi	N_NNP
+
+yhi	hi	DM_DMD
+rh	hi	RD_RDF
+liyu	hi	N_NN
+kaaam	hi	V_VM
+b	hi	V_VM
+kr	hi	PR_PRQ
+liyu	hi	N_NN
+
+Hahah	univ	RP_INJ
+...	univ	RD_PUNC
+
+Acha	hi	N_NN
+g	hi	N_NN
+thk	hi	RD_RDF
+h	hi	RD_PUNC
+
+hmmmm	univ	RP_INJ
+
+to	hi	PSP
+btaa	hi	N_NNP
+kb	hi	PR_PRQ
+tk	hi	CC
+aayega	hi	N_NNP
+
+Aunga	hi	N_NNP
+didi	hi	N_NN
+
+okkk	en	U
+
+chl	hi	JJ
+kaam	hi	N_NNP
+khtm	hi	N_NNP
+kr	hi	RD_PUNC
+
+Han	hi	RD_RDF
+di	hi	V_VM
+....	univ	RD_PUNC
+Bilkul	hi	RD_RDF
+
+bilkuk	hi	N_NN
+
+bilkul	hi	JJ
+
+Mammi	hi	N_NNP
+agyi	hi	N_NN
+hain	hi	V_VM
+
+okkk	en	U
+
+ram	hi	RD_RDF
+ram	hi	RD_RDF
+di	hi	V_VM
+
+Hahahaha	univ	RP_INJ
+
+😁😝	univ	RD_PUNC
+
+Gunjiya	hi	N_NNP
+khila	hi	N_NN
+dunga	hi	N_NN
+tension	en	N_NN
+mat	hi	N_NNP
+lo	hi	N_NNP
+aa	hi	PSP
+
+Ap	hi	U
+😂😂😂😂😂😂	hi	RD_PUNC
+
+ho	hi	V_VM
+gya	hi	N_NN
+tera	hi	N_NNP
+
+pooja	ne	N_NNP
+ko	hi	PSP
+btau	hi	N_NN
+???	univ	RD_PUNC
+
+Han	hi	RD_RDF
+batau	hi	N_NN
+
+Mai	hi	N_NNP
+Ni	hi	N_NNP
+darta	hi	N_NN
+
+acha	hi	JJ
+
+ptaa	hi	N_NN
+h	hi	RP_INJ
+mjhe	hi	V_VM
+
+To	hi	PSP
+acchi	hi	JJ
+bat	hi	N_NN
+hai	hi	V_VAUX
+na	hi	RP_RPD
+
+hmmm	hi	RP_INJ
+
+Hmm	hi	U
+
+or	hi	CC
+
+Movie	en	N_NN
+again😁😁	en	RD_PUNC
+
+pdai	hi	N_NN
+mt	hi	PR_PRP
+kriyu	hi	N_NNP
+
+Hee	hi	#
+
+May	hi	V_VM
+this	en	DT
+season	en	N_NN
+of	hi	PSP
+color	hi	N_NN
+bring	en	V_VM
+you	en	PR_PRP
+cheer	en	JJ
+and	en	CC
+happiness	en	V_VM
+.	univ	RD_PUNC
+May	hi	V_VM
+the	en	DT
+colors	hi	N_NN
+of	hi	PSP
+the	en	DT
+Holi	hi	N_NN
+continues	en	N_NN
+to	hi	PSP
+illuminate	en	V_VM
+your	en	DT
+life	ne	N_NN
+and	en	CC
+
+guide	en	N_NN
+you	en	PR_PRP
+towards	hi	V_VM
+the	en	DT
+path	univ	N_NN
+of	hi	PSP
+success	en	N_NN
+.	univ	RD_PUNC
+Happy	en	JJ
+Holi	hi	N_NN
+!	univ	RD_PUNC
+😊😊😊	hi	RD_PUNC
+
+Abbe	hi	N_NN
+o	hi	CC
+
+Haa	hi	RP_INJ
+
+Kidde	hi	N_NN
+jal	hi	N_NN
+
+Ha	hi	RP_INJ
+
+Hal	en	U
+
+Bdiya	hi	N_NNP
+tu	hi	PSP
+bta	hi	N_NNP
+
+Gzb	hi	N_NNP
+agay	hi	N_NN
+
+Hum	hi	N_NN
+to	hi	PSP
+
+Ohh	hi	RP_INJ
+
+Gn	hi	U
+
+Direct	en	JJ
+gn	hi	V_VM
+
+😂😂	hi	RD_PUNC
+
+Hhaha	univ	RP_INJ
+
+Esa	hi	N_NNP
+Hi	hi	RP_INJ
+kuch	hi	QT_QTF
+
+Heheh	hi	RP_INJ
+
+Or	hi	RD_RDF
+suna	hi	N_NN
+
+Bs	hi	V_VM
+yr	hi	N_NN
+bdiya	hi	V_VM
+
+Tu	hi	#
+bta	hi	N_NNP
+
+M	hi	$
+v	hi	RD_RDF
+
+Vdya	hi	RP_INJ
+
+Dp	hi	N_NNP
+cute	en	JJ
+h	hi	RD_PUNC
+Teri	hi	N_NNP
+balika	univ	N_NNP
+
+Kya	hi	JJ
+baat	hi	N_NN
+hai	hi	V_VM
+ini	univ	PR_PRP
+aachi	hi	JJ
+hai	hi	V_VAUX
+kya	hi	N_NNP
+
+😂😂	hi	RD_PUNC
+
+Ab	hi	N_NNP
+bol	hi	N_NNP
+rahe	hi	V_VAUX
+hai	hi	V_VAUX
+
+SB	hi	N_NNP
+?	univ	RD_PUNC
+Ya	hi	N_NNP
+ab	hi	PSP
+?	univ	RD_PUNC
+
+Sb*😜	univ	U
+
+😅	hi	RD_PUNC
+
+Aâpke	hi	JJ
+life	ne	N_NN
+mein	hi	N_NN
+mithââs	hi	N_NN
+ho	hi	V_VM
+“Câdbury	hi	N_NN
+Silk”	hi	N_NNP
+jâise	en	N_NN
+
+Rounak	en	N_NNP
+ho	hi	V_VAUX
+“	hi	PR_PRQ
+Berger	ne	N_NNP
+silk”	hi	N_NN
+jâise	en	N_NN
+
+Mehak	hi	N_NNP
+ho	hi	V_VAUX
+“GUCCI	hi	PR_PRQ
+”	hi	N_NNP
+jaise	hi	N_NN
+
+Tazgi	hi	N_NNP
+ho	hi	N_NNV
+“Colgate”	en	PR_PRQ
+jaise	hi	N_NN
+free	en	JJ
+rahe	hi	V_VAUX
+“Huggies”	univ	V_VAUX
+jâise	en	N_NN
+!	univ	RD_PUNC
+HÂPPŸ	hi	RD_RDF
+NEW	en	JJ
+YEÂR	hi	N_NN
+06	hi	$
+
+Regards	hi	V_VM
+
+Priya	univ	N_NNP
+chawla	univ	N_NN
+Hny	hi	RB_AMN
+to	hi	PSP
+you	en	PR_PRP
+n	hi	CC
+ur	hi	DT
+family	ne	N_NN
+Stay	en	RB_AMN
+fit	hi	JJ
+n	hi	CC
+fine	en	JJ
+
+Ty😊	hi	RD_PUNC
+Hi	hi	RP_INJ
+
+Hi	hi	RP_INJ
+Bye😝😝😝	hi	N_NNP
+
+Kya	hi	JJ
+by	hi	PSP
+Maje	hi	V_VM
+
+Paga	hi	N_NNP
+😝	hi	RD_PUNC
+Or	hi	RD_RDF
+suna	hi	N_NN
+
+Bs	hi	V_VM
+bdiy	hi	N_NN
+Oy	hi	PSP
+kon	hi	DM_DMQ
+c	hi	N_NNP
+trphy	hi	N_NN
+??	univ	RD_PUNC
+
+Ca	hi	N_NNP
+me	hi	PR_PRP
+mili	hi	N_NN
+gaana	hi	N_NN
+gaya	hi	N_NN
+th	hi	PSP
+Are	hi	V_VM
+gud	hi	N_NN
+gud	hi	N_NN
+Chhori	hi	N_NNP
+k	hi	RD_PUNC
+haal	hi	N_NN
+
+Bdiya	hi	N_NNP
+tu	hi	PSP
+bta	hi	JJ
+😵😵	hi	RD_PUNC
+Itti	hi	N_NNV
+jldi	hi	N_NN
+reply	en	V_VM
+Kya	hi	N_NNP
+bat	hi	N_NN
+
+😜😜	hi	RD_PUNC
+
+Abe	hi	V_VM
+bs	hi	V_VM
+asa	hi	N_NNP
+hi	hi	N_NNP
+mera	hi	N_NNP
+Han	hi	N_NNP
+beta	hi	N_NNP
+Congos	en	N_NNP
+Gaane	hi	N_NN
+k	hi	RD_PUNC
+liye	hi	PSP
+
+Teko	hi	N_NNP
+kese	hi	V_VM
+pta	hi	JJ
+?	univ	RD_PUNC
+Beta	hi	N_NNP
+joote	en	N_NN
+khaoge	hi	N_NN
+?	univ	RD_PUNC
+Tumne	hi	N_NNP
+Hi	hi	PR_PRP
+btaya	hi	N_NN
+👞👞👢👢	hi	RD_PUNC
+
+Aacha😜😜	hi	N_NNP
+😄😄😄	hi	RD_PUNC
+Ye	hi	PR_PRP
+tre	hi	V_VM
+bhratra	hi	N_NN
+h	hi	RD_PUNC
+?	univ	RD_PUNC
+Ya	hi	N_NNP
+mitra	hi	N_NNP
+?	univ	RD_PUNC
+
+Mitra	hi	N_NNP
+Wah	hi	N_NN
+..	univ	RD_PUNC
+Apratim	en	E
+
+Kya	hi	JJ
+hua	hi	V_VM
+teko	hi	CC
+Abe	hi	V_VM
+Hindi	hi	N_NN
+hai	hi	V_VAUX
+Apratim	en	CC
+=	hi	RD_PUNC
+ati	hi	N_NN
+sundat	hi	JJ
+Sundar	hi	N_NNP
+
+Are	hi	V_VM
+tbhi	hi	N_NN
+to	hi	PSP
+pucha	hi	V_VM
+ki	hi	PR_PRQ
+hindi	hi	JJ
+kes	hi	N_NN
+Are	hi	V_VM
+mera	hi	N_NNP
+shonk	hi	V_VM
+h	hi	RP_INJ
+M	hi	V_VM
+a	hi	DT
+linguist	en	JJ
+Telugu	hi	N_NN
+bolun	hi	N_NNP
+kya	hi	N_NNP
+??	univ	RD_PUNC
+😉😉😉😉	hi	RD_PUNC
+
+Ohhh	hi	RP_INJ
+
+Ha	hi	RP_INJ
+bolio	hi	N_NNP
+jara	hi	N_NN
+Ela	hi	N_NN
+unnaru	hi	JJ
+ra	hi	PSP
+pilla	en	N_NN
+?	univ	RD_PUNC
+Inka	hi	N_NNP
+em	hi	DM_DMD
+chestunnav	hi	N_NN
+?	univ	RD_PUNC
+
+Tamil	ne	N_NNP
+teri	hi	N_NNP
+yadda😜😜	hi	RD_PUNC
+Nai	hi	V_VAUX
+..	univ	RD_PUNC
+Har	hi	RD_RDF
+pal	univ	V_VAUX
+Teri	hi	N_NN
+yadda😝😝😝😝	hi	RD_PUNC
+yadda	hi	N_NN
+wich	hi	PSP
+h	hi	RP_INJ
+tu	hi	PSP
+Tamil	ne	N_NNP
+kaha	hi	N_NN
+aya	hi	JJ
+game	en	V_VM
+me	hi	PR_PRP
+?	univ	RD_PUNC
+
+😜😜	hi	RD_PUNC
+
+Abe	hi	V_VM
+bhai	hi	N_NN
+ne	hi	PSP
+sikahya	hi	N_NN
+tha	hi	RD_RDF
+agr	hi	RD_RDF
+tamik	ne	RD_RDF
+nai	hi	V_VM
+aati	hi	N_NN
+to	hi	PSP
+bolte	hi	V_VM
+hai	hi	V_VAUX
+tamil	ne	CC
+teri	hi	N_NNP
+yada	hi	N_NNP
+Han	hi	V_VM
+malum	ne	V_VM
+hai	hi	V_VAUX
+Maje	hi	N_NN
+lera	hi	N_NNP
+tha	hi	QT_QTF
+Tariyadi	hi	N_NNP
+bolte	hi	N_NN
+h	hi	RP_INJ
+..	univ	RD_PUNC
+Precisely	en	RB_AMN
+😊😊😊	hi	RD_PUNC
+
+Abe	hi	V_VM
+pata	hi	N_NN
+na	hi	V_VM
+
+😜😜	hi	RD_PUNC
+Hehhe	hi	N_NN
+
+Salle	en	JJ
+yaha	hi	N_NNP
+aaya	hi	JJ
+hua	hi	V_VM
+hai	hi	V_VAUX
+
+Mila	hi	N_NNP
+bhi	hi	N_NN
+nai	hi	V_VM
+Abe	hi	V_VM
+tu	hi	PSP
+kidar	hi	N_NN
+milna	hi	N_NNP
+h	hi	RD_PUNC
+bta	hi	N_NNP
+dde	hi	N_NN
+Mil	hi	N_NNP
+lenge	hi	V_VM
+
+Ohhh	hi	N_NNP
+kya	hi	JJ
+baat	hi	N_NN
+Tu	hi	PSP
+chitegi	en	N_NN
+..	univ	RD_PUNC
+Rat	hi	N_NNP
+k	hi	RD_PUNC
+04	hi	$
+par	hi	N_NN
+ek	hi	DM_DMD
+ladke	hi	N_NN
+ko	hi	PSP
+salla	en	N_NN
+bolti	hi	N_NN
+h	hi	RP_INJ
+..	univ	RD_PUNC
+report	en	V_VM
+kra	hi	N_NNP
+sunga	hi	N_NNP
+Dunga	hi	N_NNP
+0:4	univ	$
+
+😜😜😜	hi	RD_PUNC
+
+Heheh	hi	RD_RDF
+Jb	hi	N_NNP
+milna	hi	N_NN
+ho	hi	V_VAUX
+to	hi	RP_RPD
+bta	hi	V_VM
+diyo	hi	V_VM
+H	hi	RD_RDF
+naa	hi	N_NNP
+Bahutosh	hi	N_NNP
+k	hi	RD_PUNC
+ghr	hi	N_NN
+hota	hi	V_VM
+hua	hi	V_VM
+mil	hi	N_NN
+lunga	hi	N_NNP
+
+Aacha	hi	N_NNP
+g	hi	N_NN
+yr	hi	N_NN
+time	en	N_NN
+ki	hi	PR_PRQ
+bdi	hi	V_VM
+dikat	hi	V_VM
+hai	hi	V_VAUX
+Same	en	JJ
+here😄😄😄	en	RD_PUNC
+
+😜😜	hi	RD_PUNC
+Anyways	en	N_NNP
+...	univ	RD_PUNC
+Tu	hi	PSP
+suna	hi	N_NN
+or	hi	CC
+Kuch	hi	QT_QTF
+Bhai	hi	N_NN
+ka	hi	N_NNP
+mn	hi	N_NNP
+lg	hi	N_NN
+gya	hi	N_NN
+kaali	hi	N_NN
+khoobsurati	hi	N_NN
+me	hi	PR_PRP
+??	univ	RD_PUNC
+
+Haa	hi	N_NN
+lag	hi	N_NNP
+hi	hi	RP_INJ
+gya	hi	N_NN
+Are	hi	V_VM
+bhai😔	hi	N_NN
+Bohot	hi	N_NNP
+kaala	hi	N_NN
+sona	hi	RD_RDF
+hai	hi	V_VAUX
+😝😝😝😝	hi	RD_PUNC
+Jaha	hi	N_NNP
+jao	hi	N_NN
+waha	hi	N_NNP
+
+Mtlb	hi	N_NNP
+Kaali	hi	N_NNP
+pariyaan	hi	N_NN
+Black	en	RD_RDF
+beauty	hi	N_NN
+
+Ohhhh	hi	RP_INJ
+mai	hi	N_NN
+nai	hi	V_VM
+gyi	hi	N_NN
+Jaana	hi	N_NNP
+b	hi	V_VM
+mat	hi	N_NN
+..	univ	RD_PUNC
+Pagal	hi	N_NNP
+ho	hi	V_VM
+jygi	hi	N_NN
+
+Oh	hi	RP_INJ
+ok😜😜	hi	N_NNP
+Hmm	hi	RD_RDF
+Nai	hi	N_NNP
+itna	hi	N_NN
+b	hi	V_VM
+ni	hi	RP_RPD
+SAI	hi	RD_RDF
+h	hi	RD_PUNC
+beta	hi	N_NNP
+
+Kya	hi	JJ
+sai	hi	PR_PRP
+hai	hi	V_VM
+re	hi	N_NN
+
+Gud	hi	N_NNP
+mrn	hi	N_NNP
+Gud	hi	N_NNP
+mrng	hi	N_NN
+
+Ab	hi	N_NNP
+noon	hi	N_NN
+ho	hi	V_VM
+raha	hi	V_VAUX
+ha	hi	V_VAUX
+Jab	hi	RD_RDF
+jago	hi	N_NN
+tab	hi	CC
+subah	hi	N_NN
+.	univ	RD_PUNC
+😉	hi	RD_PUNC
+
+Oh	hi	RP_INJ
+Han	hi	V_VM
+.	univ	RD_PUNC
+Or	hi	RD_RDF
+kya	hi	JJ
+kar	hi	RD_RDF
+ri	hi	V_VAUX
+hai	hi	V_VAUX
+
+Bs	hi	V_VM
+yr	hi	N_NN
+audit	hi	N_NN
+pe	hi	PSP
+h	hi	RD_PUNC
+Kahe	hi	N_NN
+ke	hi	PR_PRQ
+audit	hi	JJ
+pe	hi	PSP
+,	hi	RD_PUNC
+?	univ	RD_PUNC
+
+Kec	hi	JJ
+college	hi	N_NN
+
+Mohan	hi	N_NNP
+naga	hi	N_NN
+Are	hi	V_VM
+kya	hi	JJ
+kar	hi	PR_PRQ
+ri	hi	N_NN
+h	hi	RP_INJ
+..	univ	RD_PUNC
+I	hi	PR_PRP
+mean	en	V_VM
+explain	hi	V_VM
+kar	hi	RD_RDF
+thoda	hi	N_NN
+
+Abe	hi	V_VM
+hr	hi	N_NN
+nd	hi	CC
+accounts	en	V_VM
+me	hi	PR_PRP
+checking	en	V_VM
+
+Nd	hi	JJ
+labs	hi	V_VM
+store	en	N_NN
+me	hi	PR_PRP
+checking	en	V_VM
+
+Cash	hi	N_NNP
+bank	hi	N_NN
+tax	hi	CC
+nd	hi	CC
+all	en	DT
+
+Hr	hi	V_VM
+me	hi	PR_PRP
+leave	en	V_VM
+theek	hi	V_VM
+hai	hi	V_VAUX
+ya	hi	RP_INJ
+nai	hi	V_VM
+
+Lab	hi	V_VM
+me	hi	PR_PRP
+items	en	N_NN
+ka	hi	N_NNP
+rs	hi	V_VM
+sai	hi	PR_PRP
+hai	hi	V_VAUX
+ya	hi	RP_INJ
+nqi	hi	N_NN
+
+Nd	hi	JJ
+al	hi	N_NN
+To	hi	PSP
+kec	hi	PR_PRQ
+ne	hi	PSP
+allow	hi	N_NN
+kar	hi	RD_RDF
+diya	hi	N_NNP
+tumhe	hi	V_VM
+?	univ	RD_PUNC
+
+Hum	hi	RD_RDF
+unke	hi	N_NN
+auditor	en	JJ
+hai	hi	V_VAUX
+yr	hi	N_NN
+
+Unhone	hi	N_NN
+appoint	hi	N_NN
+kara	hi	N_NN
+ha	hi	RP_INJ
+Ohho	hi	N_NNP
+..	univ	RD_PUNC
+Ye	hi	PR_PRP
+bat	hi	RD_RDF
+ha	hi	RP_RPD
+Wo	hi	RB_AMN
+CA	hi	N_NNP
+wale	hi	N_NN
+students	en	N_NN
+ko	hi	PSP
+appoint	hi	N_NN
+karte	hi	V_VM
+hain	hi	V_VAUX
+ky@	univ	PR_PRQ
+?	univ	RD_PUNC
+
+Ha	hi	RP_INJ
+Gud	hi	N_NNP
+
+Hnhi	hi	U
+
+Hnji	hi	N_NN
+Han	hi	RD_RDF
+g	hi	N_NN
+dasso	en	N_NN
+
+Ki	hi	DM_DMD
+dassa	hi	N_NN
+Kujh	hi	RD_RDF
+v	hi	RD_PUNC
+das	hi	N_NNV
+lae	hi	V_VM
+kudiye	hi	N_NN
+😄😄😄😄😄	hi	RD_PUNC
+
+Are	hi	V_VM
+baalikay	hi	N_NN
+
+😝	hi	RD_PUNC
+Ha	hi	RP_INJ
+balam	hi	N_NN
+Balak	hi	RD_RDF
+
+Balam😝😝😝😝😝😝😝😝	hi	U
+
+Abe	hi	V_VM
+main	hi	N_NNP
+balam	hi	N_NNP
+hu	hi	N_NNP
+kya	hi	JJ
+???	univ	RD_PUNC
+😜😜😜😜😜😜😜😜😜	hi	RD_PUNC
+😂😂	hi	RD_PUNC
+Galti	hi	N_NN
+
+Na	hi	JJ
+g	hi	N_NN
+na	hi	RP_RPD
+..	univ	RD_PUNC
+Irade	univ	N_NN
+nake	en	N_NN
+na	hi	RP_RPD
+hann😝😝😝😝😝😝😝😝	hi	$
+Nake	en	N_NN
+ha8	hi	V_VM
+
+Lag	hi	V_VM
+to	hi	PSP
+na	hi	RP_RPD
+re😜😜😜😜😜😜😜	hi	RD_PUNC
+Kya	hi	N_NNP
+lag	hi	V_VM
+raha	hi	V_VAUX
+hai	hi	V_VAUX
+
+Beta	hi	N_NNP
+balam	hi	N_NN
+Hi	hi	PR_PRP
+lag	hi	V_VM
+ra	hi	PSP
+hai	hi	V_VAUX
+😝😝😝😝😝😝😝😝😝😝😝😝	hi	RD_PUNC
+Nah	hi	JJ
+re	hi	N_NN
+
+Han	hi	RD_RDF
+re😆😆😆😆😆😆	hi	V_VM
+Hi	hi	PR_PRP
+
+Hello	en	JJ
+ji	hi	N_NNP
+Chal	hi	N_NN
+bye😜😜😜😜😜😜😜😜😜😜😜😜😜	hi	N_NN
+Class	en	V_VM
+hai	hi	V_VAUX
+
+Heheh	hi	RD_RDF
+bye	hi	V_VM
+Happy	en	JJ
+lohri	hi	N_NN
+..	univ	RD_PUNC
+😘😘	hi	RD_PUNC
+Ram	univ	N_NNP
+ram	univ	RD_RDF
+Bhai	hi	N_NN
+..	univ	RD_PUNC
+
+Agayeghaziabad	hi	U
+
+Ram	univ	N_NNP
+ram	univ	RD_RDF
+ji	hi	N_NNP
+
+Bhai	hi	N_NN
+decide	en	N_NN
+kro	hi	E
+
+To	hi	PSP
+sbhi	hi	V_VM
+milte	hi	N_NN
+h	hi	RD_PUNC
+kbhi	hi	N_NNP
+
+😊	hi	RD_PUNC
+
+Han	hi	RD_RDF
+Bhai	hi	N_NN
+...	univ	RD_PUNC
+
+Bikull	hi	JJ
+Haha	univ	N_NNP
+Burger	hi	N_NNP
+ek	hi	DM_DMD
+or	hi	CC
+bhukhe	hi	N_NN
+😅😂	hi	RD_PUNC
+Bhut	hi	N_NNP
+nainsaafi	hi	N_NNP
+h	hi	RD_PUNC
+re😜😅😅	hi	V_VM
+
+Hahahaha	univ	RP_INJ
+
+Han	hi	RD_RDF
+Bhai	hi	N_NN
+esa	hi	N_NNP
+Hi	hi	PR_PRP
+Kuch	hi	RD_RDF
+tha	hi	DT
+😅😅😂	hi	RD_PUNC
+Haha	univ	N_NNP
+☺	hi	N_NNP
+Sahi	hi	N_NNP
+h	hi	RD_PUNC
+bhai	hi	N_NN
+But	en	CC
+mko	hi	N_NNP
+b	hi	V_VM
+Burger	hi	RD_RDF
+psnd	hi	N_NN
+h	hi	RP_INJ
+re	hi	PSP
+Mko	hi	V_VM
+to	hi	PSP
+bulaya	ne	V_VM
+b	hi	V_VM
+nhi	hi	N_NN
+kamine😠😟	hi	RD_PUNC
+
+Are	hi	V_VM
+.	univ	RD_PUNC
+Yar	hi	E
+..	univ	RD_PUNC
+Ye	hi	PR_PRP
+bahutosh	hi	N_NN
+or	hi	CC
+vishal	hi	JJ
+jab	hi	N_NN
+ek	hi	DM_DMD
+sath	univ	N_NN
+milte	hi	V_VM
+hain	hi	V_VM
+esa	hi	N_NNP
+bada	hi	N_NNP
+kam	hi	RD_RDF
+hota	hi	V_VM
+h	hi	RP_INJ
+..	univ	RD_PUNC
+Or	hi	RD_PUNC
+uspe	hi	N_NN
+bhi	hi	N_NN
+mammi	hi	N_NN
+mujhe	hi	N_NN
+bahar	hi	N_NN
+jaane	hi	N_NN
+de	hi	V_VM
+..	univ	RD_PUNC
+or	hi	CC
+b	hi	V_VM
+nushkil	hi	N_NN
+Hmm	hi	RD_RDF
+Chal	hi	V_VM
+koi	hi	PR_PRP
+nhi	hi	JJ
+bhai	hi	N_NN
+
+Bde	hi	N_NN
+log	hi	N_NN
+bhai	hi	N_NN
+bde	hi	N_NN
+log😁	hi	RD_PUNC
+
+😔😕	hi	RD_PUNC
+
+Are	hi	V_VM
+Bhai	hi	N_NN
+ese	hi	V_VM
+na	hi	RP_RPD
+keh	hi	$
+...	univ	RD_PUNC
+
+Milne	hi	N_NN
+ka	hi	N_NNP
+plan	en	V_VM
+banaynge	hi	N_NN
+..	univ	RD_PUNC
+
+Tension	ne	N_NNP
+na	hi	RP_RPD
+ke	hi	PR_PRQ
+
+Mujhe	hi	N_NN
+lambi	hi	N_NNP
+chutti	hi	N_NN
+OE	hi	RD_RDF
+aane	hi	N_NN
+de	hi	PSP
+
+Abhi	hi	N_NN
+to	hi	PSP
+main	hi	N_NNP
+hafte	hi	V_VM
+bhar	hi	N_NN
+hi	hi	RP_INJ
+aaya	hi	N_NNP
+hu	hi	V_VM
+
+Hmm	hi	U
+
+Koi	hi	N_NNP
+nhi	hi	V_VM
+
+Hafta	hi	JJ
+bht	hi	V_VM
+h	hi	RD_PUNC
+bhai	hi	N_NN
+
+😉😊	hi	RD_PUNC
+
+Milte	hi	N_NNP
+h	hi	RP_INJ
+holi	hi	N_NNP
+bad	hi	JJ
+hi	hi	RP_INJ
+
+Han	hi	RD_RDF
+yar	hi	RP_INJ
+
+Or	hi	RD_RDF
+mere	hi	V_VM
+projects	en	N_NN
+bhi	hi	N_NN
+bohot	hi	V_VM
+hain😭😭😭	hi	RD_PUNC
+
+Ohoo	univ	RP_INJ
+bhai	hi	N_NN
+
+😁	hi	RD_PUNC
+
+Chal	hi	JJ
+dekhiyo	hi	V_VM
+
+Tym	hi	RD_RDF
+nikal	hi	JJ
+k	hi	RD_PUNC
+bhai	hi	N_NN
+
+Isi	hi	N_NNV
+week	en	N_NN
+me	hi	PR_PRP
+
+Lata	ne	N_NNP
+b	hi	V_VM
+bol	hi	RD_RDF
+rhi	hi	N_NNP
+thi	hi	V_VM
+bht	hi	V_VM
+din	hi	V_VM
+se	hi	PR_PRP
+
+Bhai	hi	N_NN
+nikalna	hi	JJ
+padta	hi	JJ
+hai	hi	V_VM
+warna	hi	N_NN
+mai	hi	N_NN
+.	univ	RD_PUNC
+To	hi	PSP
+bed	hi	V_VM
+se	hi	PR_PRP
+uthu	hi	PR_PRP
+hi	hi	$
+na	hi	RP_RPD
+
+Hmm	hi	U
+
+Nikalna	hi	N_NNP
+pdega	hi	N_NN
+tjhe	hi	N_NN
+kamine	hi	N_NN
+
+Kitna	hi	N_NNP
+aalsi	hi	N_NN
+bnega	hi	N_NNP
+
+😑	hi	RD_PUNC
+
+Ek	hi	CC
+week	en	N_NN
+m	hi	V_VM
+b	hi	V_VM
+alsi	en	N_NN
+pan😅😅	hi	N_NN
+
+Are	hi	V_VM
+Bhai	hi	N_NN
+mammi	hi	N_NN
+pit	hi	N_NN
+pit	hi	N_NN
+k	hi	RD_PUNC
+nahane	hi	N_NN
+k	hi	RD_PUNC
+liye	hi	PSP
+bheja	hi	N_NN
+aaj😅😅😅	hi	N_NN
+Haha	univ	N_NNP
+Sahi	hi	N_NNP
+kiya	hi	N_NNP
+Tu	hi	PSP
+isi	hi	PSP
+layk	hi	V_VM
+h	hi	RP_INJ
+bhai😅😉😆😂	hi	N_NN
+Is	hi	V_VM
+bar	hi	V_VM
+me	hi	PR_PRP
+to	hi	PSP
+aunty	en	N_NN
+k	hi	RD_PUNC
+sath	univ	N_NN
+hu😉😅🤓😎	hi	V_VM
+
+Hahahaha	univ	RP_INJ
+
+Or	hi	RD_RDF
+suba	hi	N_NN
+
+Suna	hi	N_NNP
+Bs	hi	V_VM
+bhai	hi	N_NN
+Ghr	hi	N_NNP
+pe	hi	PSP
+Mmy	hi	N_NNP
+ki	hi	PR_PRQ
+help	hi	V_VM
+😉😉	hi	RD_PUNC
+
+Ohhoh	hi	N_NNP
+Hrhe	hi	N_NN
+Aaja	hi	N_NNP
+bhai	hi	N_NN
+Gujiya	hi	N_NNP
+khale😉	hi	N_NN
+Mne	hi	N_NN
+bnayi	hi	N_NN
+h	hi	RD_PUNC
+😃	hi	RD_PUNC
+
+Same	en	JJ
+here	en	RB_AMN
+bhai	hi	N_NN
+
+Word	en	N_NN
+to	hi	PSP
+word	en	V_VM
+
+😁😁	hi	RD_PUNC
+
+Kha	hi	N_NNP
+le	hi	V_VM
+tu	hi	PSP
+b	hi	V_VM
+Hehe😅😅	hi	RD_PUNC
+Bilkul	hi	N_NNP
+bhai	hi	N_NN
+Thodi	hi	N_NNP
+or	hi	CC
+jada	hi	N_NN
+c	hi	N_NNP
+bna	hi	N_NNP
+
+Humbey	hi	RB_AMN
+or	hi	CC
+kya	hi	JJ
+Tb	hi	N_NNP
+khaunga	hi	N_NN
+Dher	en	N_NNP
+sari	hi	N_NN
+😉	hi	RD_PUNC
+
+Chhere	en	RB_AMN
+kag	hi	V_VM
+jange	hi	N_NN
+toe	hi	N_NN
+
+Lag	hi	N_NNP
+Hrami	ne	N_NNP
+😏😒😒	hi	RD_PUNC
+😅😂	hi	RD_PUNC
+
+💩💩	hi	RD_PUNC
+😛😛	hi	RD_PUNC
+😷😷😷😷	hi	RD_PUNC
+👻👻👻	hi	RD_PUNC
+
+Are	hi	V_VM
+Bhai	hi	N_NN
+badboo	hi	N_NN
+q	hi	N_NN
+faia	univ	JJ
+raha	hi	V_VAUX
+hai	hi	V_VAUX
+
+Faila	hi	N_NNP
+😁	hi	RD_PUNC
+Bhai	hi	N_NN
+wo	hi	V_VM
+b	hi	V_VM
+spcl	hi	N_NN
+offer	hi	N_NN
+h	hi	RP_INJ
+😅😅	hi	RD_PUNC
+Badbu	hi	N_NNP
+b	hi	V_VM
+bs	hi	N_NN
+kallupura	en	N_NNP
+walo	hi	V_VM
+k	hi	RD_PUNC
+liye😉😆😅	hi	N_NN
+👻💀👻	hi	RD_PUNC
+
+Kutte	en	#
+
+Kamine	hi	N_NN
+😅😅	hi	RD_PUNC
+Haha	univ	N_NNP
+😆😆😜	hi	RD_PUNC
+
+May	hi	V_VM
+this	en	DT
+season	en	N_NN
+of	hi	PSP
+color	hi	N_NN
+bring	en	V_VM
+you	en	PR_PRP
+cheer	en	JJ
+and	en	CC
+happiness	en	V_VM
+.	univ	RD_PUNC
+May	hi	V_VM
+the	en	DT
+colors	hi	N_NN
+of	hi	PSP
+the	en	DT
+Holi	hi	N_NN
+continues	en	N_NN
+to	hi	PSP
+illuminate	en	V_VM
+your	en	DT
+life	ne	N_NN
+and	en	CC
+
+guide	en	N_NN
+you	en	PR_PRP
+towards	hi	V_VM
+the	en	DT
+path	univ	N_NN
+of	hi	PSP
+success	en	N_NN
+.	univ	RD_PUNC
+Happy	en	JJ
+Holi	hi	N_NN
+!	univ	RD_PUNC
+😊😊😊	hi	RD_PUNC
+May	hi	V_VM
+god	hi	N_NNP
+gift	hi	N_NN
+u	hi	PR_PRP
+all	en	DT
+the	en	DT
+colors	hi	N_NN
+of	hi	PSP
+life	ne	N_NN
+,	hi	RD_PUNC
+Colors	hi	N_NN
+of	hi	PSP
+joy	hi	N_NN
+,	hi	RD_PUNC
+Colors	hi	N_NN
+of	hi	PSP
+happiness	en	N_NN
+,	hi	RD_PUNC
+Colors	hi	N_NN
+of	hi	PSP
+friendship	en	N_NN
+,	hi	RD_PUNC
+Colors	hi	N_NN
+of	hi	PSP
+luv	hi	N_NN
+and	en	CC
+All	en	DT
+other	en	JJ
+colors	hi	N_NN
+U	hi	PR_PRP
+want	en	V_VM
+to	hi	PSP
+paint	en	V_VM
+in	hi	PSP
+ur	hi	DT
+life	ne	N_NN
+.	univ	RD_PUNC
+Happy	en	JJ
+holi	hi	N_NN
+.	univ	RD_PUNC
+🤗	hi	RD_PUNC
+Wishing	en	V_VM
+You	en	PR_PRP
+And	en	V_VM
+Your	en	DT
+Family	ne	RB_AMN
+A	hi	DT
+Very	en	JJ
+Bright	en	N_NN
+,	hi	RD_PUNC
+Colourful	hi	JJ
+And	en	CC
+
+Joyful	hi	JJ
+Holi	hi	N_NN
+With	en	PSP
+Love	en	N_NN
+And	en	CC
+Best	en	JJ
+Wishes	en	N_NN
+!	univ	RD_PUNC
+
+😁😁	hi	RD_PUNC
+
+Hi	hi	RP_INJ
+bhayya	hi	N_NN
+
+Hanji	hi	U
+
+Janab	ne	U
+
+Bhaiyya	hi	N_NNP
+iPhone	en	N_NN
+kitne	hi	PR_PRQ
+ka	hi	N_NNP
+liya	hi	N_NNP
+aapne	hi	PR_PRF
+
+??	univ	RD_PUNC
+
+Bhai	hi	N_NN
+Black	en	RD_RDF
+Friday	en	N_NNP
+ki	hi	PR_PRQ
+deal	hi	JJ
+mein	hi	N_NN
+mila	hi	N_NN
+Kaafi	hi	N_NNP
+sastaa	en	N_NN
+
+Kitne	hi	N_NN
+mei	hi	N_NN
+mila	hi	N_NN
+bhayya	hi	N_NN
+
+Around	en	N_NNP
+45000	hi	$
+ka	hi	N_NNP
+.	univ	RD_PUNC
+
+Phir	hi	RD_RDF
+bhi	hi	N_NN
+
+India	ne	N_NNP
+mein	hi	N_NN
+around	en	PSP
+65k	hi	$
+ka	hi	N_NNP
+hai	hi	V_VAUX
+.	univ	RD_PUNC
+
+Phir	hi	N_NN
+se	hi	PR_PRP
+aayegi	hi	PR_PRP
+kya	hi	JJ
+bhaiyya	hi	N_NNP
+deal	hi	JJ
+
+Hahaha	univ	RP_INJ
+
+Next	en	JJ
+year😜	en	RP_INJ
+
+Haan	hi	RB_AMN
+shayad	hi	N_NN
+Jumia	hi	N_NNP
+ki	hi	PR_PRQ
+anniversary	en	JJ
+acne	hi	N_NN
+wali	hi	V_VAUX
+hai	hi	V_VAUX
+.	univ	RD_PUNC
+To	hi	PSP
+shayad	hi	V_VM
+phir	hi	QT_QTF
+aaye	hi	N_NN
+sale	hi	N_NN
+.	univ	RD_PUNC
+
+Kise	hi	JJ
+Lena	hi	N_NNP
+hai	hi	V_VAUX
+.	univ	RD_PUNC
+
+Dost	hi	JJ
+ne	hi	PSP
+pucha	hi	N_NN
+tha	hi	RD_RDF
+
+Hmm	hi	RP_INJ
+.	univ	RD_PUNC
+
+May	hi	V_VM
+be	hi	V_VM
+I	hi	PR_PRP
+heard	en	V_VM
+next	en	JJ
+week	en	N_NN
+aayegi	hi	N_NNP
+sale	hi	N_NN
+dubara	hi	N_NN
+.	univ	RD_PUNC
+
+Mac	hi	N_NNP
+book	hi	V_VM
+air	hi	RD_RDF
+kitne	hi	PR_PRQ
+lagegi	hi	N_NNP
+bhayya	hi	N_NN
+
+But	en	CC
+not	en	RB_AMN
+like	en	PSP
+black	en	JJ
+friday	en	N_NN
+.	univ	RD_PUNC
+
+May	hi	V_VM
+be	hi	V_VM
+the	en	DT
+discounts	en	N_NN
+are	hi	V_VM
+less	en	V_VM
+.	univ	RD_PUNC
+
+Acha	hi	N_NN
+
+MacBook	hi	N_NNP
+Air	hi	DT
+pro	en	V_VAUX
+.	univ	RD_PUNC
+
+Mac	hi	N_NNP
+book	hi	V_VM
+air	hi	E
+
+Pro	en	N_NNP
+nahi	hi	N_NN
+bhayya	hi	V_VM
+
+http://695048	univ	U
+
+Check	en	V_VM
+this	en	PR_PRP
+.	univ	RD_PUNC
+👆	hi	RD_PUNC
+
+Bhaiyya	hi	N_NNP
+air	hi	RD_RDF
+
+Bhaiyya	hi	N_NNP
+rupees	ne	N_NN
+mei	hi	PR_PRP
+kitna😜	hi	RD_PUNC
+
+Bhai	hi	N_NN
+pata	hi	JJ
+nahi	hi	N_NN
+.	univ	RD_PUNC
+
+I	hi	PR_PRP
+am	hi	V_VM
+not	en	RB_AMN
+a	hi	DT
+real	en	JJ
+fanatic	hi	N_NN
+of	hi	PSP
+Apple	hi	N_NN
+.	univ	RD_PUNC
+
+Just	en	RB_AMN
+bought	en	V_VM
+this	en	DT
+phone	en	N_NN
+as	hi	PSP
+I	hi	PR_PRP
+got	en	V_VM
+a	hi	DT
+good	en	JJ
+deal	hi	N_NN
+.	univ	RD_PUNC
+
+Thik	hi	N_NNP
+h	hi	RP_INJ
+bhayya	hi	N_NNP
+
+Divided	en	V_VM
+by	hi	PSP
+4	hi	PSP
+
+Thik	hi	N_NNP
+h	hi	RP_INJ
+bhayya	hi	N_NNP
+
+Aur	hi	RD_RDF
+aap	hi	RD_RDF
+kise	hi	PR_PRQ
+ho	hi	V_VAUX
+
+Naira	hi	N_NNP
+is	hi	V_VM
+approx	hi	RB_AMN
+45	hi	$
+against	en	PSP
+dollar	en	N_NN
+.	univ	RD_PUNC
+
+Bas	hi	RD_RDF
+mast	hi	RD_RDF
+.	univ	RD_PUNC
+
+Missing	en	V_VM
+family	ne	N_NN
+.	univ	RD_PUNC
+badly	hi	RB_AMN
+
+Ghar	hi	N_NNP
+mein	hi	N_NN
+aaj	hi	RD_RDF
+shaadi	hi	N_NN
+hai	hi	V_VAUX
+.	univ	RD_PUNC
+
+😣😞😒😌😔	hi	RD_PUNC
+
+😭	hi	RD_PUNC
+
+Ayayyo	hi	U
+
+Kiski	hi	N_NNP
+shadi	hi	N_NN
+h	hi	RD_PUNC
+bhaiyya	hi	N_NNP
+?	univ	RD_PUNC
+
+Hehe	hi	#
+
+Behen	hi	N_NNP
+ki	hi	PR_PRQ
+shaadi	hi	N_NN
+and	en	CC
+M	hi	V_VM
+not	en	RB_AMN
+there	en	RB_AMN
+.	univ	RD_PUNC
+
+😞	hi	RD_PUNC
+
+Bombay	hi	N_NNP
+wale	hi	N_NN
+chachaji	hi	N_NN
+ki	hi	PR_PRQ
+.	univ	RD_PUNC
+beti	hi	PR_PRP
+ki	hi	PR_PRQ
+
+Acha	hi	N_NN
+bhaiyya	hi	N_NN
+
+Aap	hi	N_NNP
+kab	hi	PSP
+aarahe	hi	N_NN
+ho	hi	V_VM
+
+I	hi	PR_PRP
+will	en	V_VM
+land	en	V_VM
+on	hi	PSP
+9th	hi	$
+
+Morning	en	N_NN
+
