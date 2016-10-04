@@ -3,18 +3,19 @@ from itertools import chain
 import nltk
 import sklearn
 import scipy.stats
-from sklearn.metrics import make_scorer
-from sklearn.cross_validation import cross_val_score
-from sklearn.grid_search import RandomizedSearchCV
+from sklearn.metrics import make_scorer,confusion_matrix,f1_score,precision_recall_fscore_support
 
 import sklearn_crfsuite
 from sklearn_crfsuite import scorers
 from sklearn_crfsuite import metrics
 
+import warnings
+warnings.filterwarnings("ignore")
 
 class CodeMixing():
 	def __init__(self, data_path):
 		self.data_path = data_path
+		print "data_path:%s" %(self.data_path)
 		self.load_data()
 		self.train()
 		# self.test()
@@ -22,7 +23,7 @@ class CodeMixing():
 		# y_test = [sent2labels(s) for s in test_sents]
 	
 	def load_data(self):
-		self.train_sents = []
+		self.data = []
 		with open(self.data_path) as ip:
 			sent = []
 			for line in ip.readlines():
@@ -30,7 +31,7 @@ class CodeMixing():
 				if line != "":
 					sent.append(tuple(line.split("\t")))
 				else:
-					self.train_sents.append(sent)
+					self.data.append(sent)
 					sent = []
 	
 	def word2features(self, sent, i):
@@ -87,8 +88,12 @@ class CodeMixing():
 	    return [token for token, postag, label in sent]
 
 	def train(self):
-		X_train = [self.sent2features(s) for s in self.train_sents]
-		y_train = [self.sent2labels(s) for s in self.train_sents]
+		X_train = [self.sent2features(s) for s in self.data[0:int(0.8*len(self.data))]]
+		y_train = [self.sent2labels(s) for s in self.data[0:int(0.8*len(self.data))]]
+
+		X_test = [self.sent2features(s) for s in self.data[int(0.8*len(self.data)):]]
+		y_test = [self.sent2labels(s) for s in self.data[int(0.8*len(self.data)):]]
+
 		crf = sklearn_crfsuite.CRF(
 			algorithm='lbfgs',
 			c1=0.1,
@@ -98,9 +103,17 @@ class CodeMixing():
 
 		crf.fit(X_train, y_train)
 		labels = list(crf.classes_)
-		# y_pred = crf.predict(X_test)
-		# metrics.flat_f1_score(y_test, y_pred,
-  #                     average='weighted', labels=labels)
+		# print labels
+		y_pred = crf.predict(X_test)
+		y_pred_flat = [item for sublist in y_pred for item in sublist]
+		y_test_flat = [item for sublist in y_test for item in sublist]
+		# print "pred:%d, gold:%d" %(len(y_pred_flat),len(y_test_flat))
+		print(confusion_matrix(y_test_flat, y_pred_flat))
+		# for ix,y in enumerate(y_pred):
+		# 	print "Pred: %s, Gold: %s " %(y_pred[ix],y_test[ix])
+		print "precision: %f, recall: %f, f1-score: %f, support: %s" %(precision_recall_fscore_support(y_test_flat, y_pred_flat,average='weighted'))
 
 if __name__ == '__main__':
-	CodeMixing("data/Data-2016/Coarse-Grained/WA_TE_EN_CR.txt")
+
+	# CodeMixing("data/Data-2016/Coarse-Grained/WA_TE_EN_CR.txt")
+	CodeMixing("data/Data-2016/Coarse-Grained/WA_HI_EN_CR.txt")
