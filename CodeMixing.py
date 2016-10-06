@@ -9,7 +9,7 @@ import scipy.stats
 import numpy as np
 from sklearn.metrics import make_scorer,confusion_matrix,f1_score,precision_recall_fscore_support,average_precision_score
 from sklearn.grid_search import RandomizedSearchCV, GridSearchCV
-from sklearn.model_selection import KFold
+from sklearn.cross_validation import KFold
 import sklearn_crfsuite
 from sklearn_crfsuite import scorers
 from sklearn_crfsuite import metrics
@@ -28,9 +28,9 @@ class CodeMixing():
 		self.social_media_name = data_path.split("/")[-1].strip(".txt") 
 		print "data_path:%s" %(self.data_path)
 		self.load_data()
-		for i in [1,2,3]:
-			self.train()
-		# self.model_name = '06_10_2016_14_25_11'
+		# for i in [1,2,3]:
+		self.train()
+		# self.model_name = '_TWT_BN_EN_CR'
 		# self.test()
 		
 	def load_data(self):
@@ -47,7 +47,10 @@ class CodeMixing():
 	
 	def word2features(self,sent,i,ignore=False):
 		word = sent[i][0]
-		lang = sent[i][1]
+		try:
+			lang = sent[i][1]
+		except:
+			lang = 'unk'
 		word, has_emoji = self.remove_emoji(word)
 
 		features = {
@@ -83,7 +86,10 @@ class CodeMixing():
 		
 		if i > 0:
 			word1 = sent[i-1][0]
-			lang1 = sent[i-1][1]
+			try:
+				lang1 = sent[i-1][1]
+			except:
+				lang1 = 'unk'			
 			word1, has_emoji1 = self.remove_emoji(word1)
 			features.update({
 				'-1:word.lower()': word1.lower(),
@@ -107,7 +113,10 @@ class CodeMixing():
 
 		if i < len(sent)-1:
 			word1 = sent[i+1][0]
-			lang1 = sent[i+1][1]
+			try:
+				lang1 = sent[i+1][1]
+			except:
+				lang1 = 'unk'			
 			word1, has_emoji1 = self.remove_emoji(word1)
 			features.update({
 				'+1:word.lower()': word1.lower(),
@@ -131,7 +140,10 @@ class CodeMixing():
 
 		if i > 1:
 			word2 = sent[i-2][0]
-			lang2 = sent[i-2][1]
+			try:
+				lang2 = sent[i-2][1]
+			except:
+				lang2 = 'unk'			
 			word2, has_emoji2 = self.remove_emoji(word2)
 			features.update({
 				'-2:word.lower()': word2.lower(),
@@ -153,7 +165,10 @@ class CodeMixing():
 
 		if i < len(sent)-2:
 			word2 = sent[i+2][0]
-			lang2 = sent[i+2][1]
+			try:
+				lang2 = sent[i+2][1]
+			except:
+				lang2 = 'unk'
 			word2, has_emoji2 = self.remove_emoji(word2)
 			features.update({
 				'+2:word.lower()': word2.lower(),
@@ -247,7 +262,13 @@ class CodeMixing():
 		return [label for token, postag, label in sent]
 
 	def sent2tokens(self,sent):
-		return [token for token, postag in sent]
+		try:
+			return [token for token, postag in sent]
+		except:
+			x = []
+			for i,z in enumerate(sent):
+				x.append(z[0])
+			return x
 
 	def train(self):
 		X = [self.sent2features(s) for s in self.data]
@@ -322,13 +343,21 @@ class CodeMixing():
 	def test(self):
 		X = [self.sent2features(s) for s in self.data]
 		tokens = [self.sent2tokens(s) for s in self.data]
-
 		clf = joblib.load("experiments/models/"+self.model_name+".pkl")
-		y = clf.predict(X)
+		y_pred = clf.predict(X)
+		# precision, recall, f1_score, support = precision_recall_fscore_support(flatten(y_test),flatten(y_pred),average='weighted')
+		# print "precision: %f, recall: %f, f1-score: %f, support: %s" %(precision, recall, f1_score, support)
+		# count = 0
+		# total = len(flatten(y_pred))
+		# for ix,y in enumerate(flatten(y_pred)):
+		# 	if y != flatten(y_test)[ix]:
+		# 		print y, flatten(y_test)[ix]
+		# 		count+=1
+		# print count, total
 
-		with open("experiments/output/"+self.model_name+"_hi_en_cr.tsv","w") as op:
+		with open("experiments/output/"+self.model_name+"_"+self.social_media_name+".tsv","w") as op:
 			for seq_index,seq in enumerate(X):
-				pred_seq = y[seq_index]
+				pred_seq = y_pred[seq_index]
 				token_seq = tokens[seq_index]
 				for word_index,item in enumerate(seq):
 					word_value = token_seq[word_index]
@@ -342,11 +371,11 @@ class CodeMixing():
 
 import os		
 if __name__ == '__main__':
-	# CodeMixing("data/Data-2016/Coarse-Grained/WA_HI_EN_CR.txt")
-	# CodeMixing("data/Data-2016/Coarse-Grained/WA_BN_EN_CR.txt")
-	CodeMixing("data/Data-2016/Coarse-Grained/WA_TE_EN_CR.txt")
+	# CodeMixing("data/Data-2016/Fine-Grained/FB_HI_EN_FN.txt")
+	# CodeMixing("data/Data-2016/Fine-Grained/FB_BN_EN_FN.txt")
+	#CodeMixing("data/Data-2016/Fine-Grained/TWT_BN_EN_FN.txt")
 	# CodeMixing("data/Data-2016/Fine-Grained/WA_HI_EN_FN.txt",'train')
-	# CodeMixing("data/Data-2016/Test/HI_Test/HI_Test/WA_EN_HI_Test_raw.txt")
+	# CodeMixing("data/Data-2016/Test/BN_Test/BN_Test/TWT_BN_EN_FN_Test_raw.txt")
 	# for file_name in os.listdir("data/Data-2016/Fine-Grained/"):
-	# # CodeMixing("data/Data-2016/Coarse-Grained/WA_TE_EN_CR.txt")
+	CodeMixing("data/Data-2016/Coarse-Grained/TWT_TE_EN_CR.txt")
 	# 	CodeMixing("data/Data-2016/Fine-Grained/"+file_name)	
