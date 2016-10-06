@@ -60,7 +60,7 @@ class CodeMixing():
 	        'word.has_num':self.has_num(word),
 	        'lang': lang
 	    }
-	    self.add_char_ngram_features(word,[1,2,3],features,count='count')
+	    self.add_char_ngram_features(word,[1,2,3],features)
 
 	    if i > 0:
 	        word1 = sent[i-1][0]
@@ -90,7 +90,7 @@ class CodeMixing():
 
 	    return features
 
-	def add_char_ngram_features(self,word,n_list,features,count='binary'):
+	def add_char_ngram_features(self,word,n_list,features,count=None):
 		for n in n_list:
 			if not len(word) <= n:
 				char_ngrams = self.word2ngrams(word,n)
@@ -99,6 +99,8 @@ class CodeMixing():
 					char_ngram_dict = {x:1 for x in char_ngrams_set}
 				elif count == 'count':
 					char_ngram_dict = {x:char_ngrams.count(x) for x in char_ngrams_set}
+				elif count==None:
+					char_ngram_dict = {'Char_'+str(n)+'_gram_Pos_'+str(i):n_gram for i,n_gram in enumerate(char_ngrams)}
 				features.update(char_ngram_dict)
 
 	def word2ngrams(self,text, n=3):
