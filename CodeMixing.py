@@ -44,6 +44,7 @@ class CodeMixing():
 	    lang = sent[i][1]
 
 	    word, has_emoji = self.remove_emoji(word)
+
 	    #has http:// 
 	    features = {
 	        'bias': 1.0,
@@ -59,6 +60,8 @@ class CodeMixing():
 	        'word.has_num':self.has_num(word),
 	        'lang': lang
 	    }
+	    self.add_char_ngram_features(word,[1,2,3],features,count='count')
+
 	    if i > 0:
 	        word1 = sent[i-1][0]
 	        lang1 = sent[i-1][1]
@@ -87,6 +90,21 @@ class CodeMixing():
 
 	    return features
 
+	def add_char_ngram_features(self,word,n_list,features,count='binary'):
+		for n in n_list:
+			if not len(word) <= n:
+				char_ngrams = self.word2ngrams(word,n)
+				char_ngrams_set = list(set(char_ngrams))
+				if count == 'binary':
+					char_ngram_dict = {x:1 for x in char_ngrams_set}
+				elif count == 'count':
+					char_ngram_dict = {x:char_ngrams.count(x) for x in char_ngrams_set}
+				features.update(char_ngram_dict)
+
+	def word2ngrams(self,text, n=3):
+		""" Convert word into character ngrams. """
+		return [text[i:i+n] for i in range(len(text)-n+1)]
+	
 	def has_num(self,text):
 		return bool(re.search(r'\d', text))
 
@@ -209,7 +227,7 @@ class CodeMixing():
 
 import os		
 if __name__ == '__main__':
-
-	for file_name in os.listdir("data/Data-2016/Fine-Grained/"):
-	# CodeMixing("data/Data-2016/Coarse-Grained/WA_TE_EN_CR.txt")
-		CodeMixing("data/Data-2016/Fine-Grained/"+file_name)	
+	CodeMixing("data/Data-2016/Coarse-Grained/WA_HI_EN_CR.txt")
+	# for file_name in os.listdir("data/Data-2016/Fine-Grained/"):
+	# # CodeMixing("data/Data-2016/Coarse-Grained/WA_TE_EN_CR.txt")
+	# 	CodeMixing("data/Data-2016/Fine-Grained/"+file_name)	
